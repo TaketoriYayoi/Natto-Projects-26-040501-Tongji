@@ -1,21 +1,3 @@
-"""
-09_new_data_analysis.py
-=======================
-整合 BEST195 基因组 + GSE72060 转录组 的两项新分析：
-
-Analysis A: AAAD候选基因鉴定
-  - 从 BEST195 protein.faa 提取全部脱羧酶（19个）
-  - 重点分析 BSNT_RS03085（PLP依赖脱羧酶，480aa）
-  - 与 peg.2266-2270 簇的基因组坐标比较
-  - 输出: 09_aaad_candidates.csv  + fig13_aaad_context.png
-
-Analysis B: 转录组交叉验证（GSE72060）
-  - 谷氨酸条件（模拟氨基酸富集）vs 葡萄糖条件
-  - 对 28 个必需基因 + 14 个 FSEOF靶标 提取表达差异
-  - 验证 ptsG 上调（+2.5）、hisC 上调（+3.7）与 FSEOF 预测的一致性
-  - 输出: 09_transcriptome_validation.csv + fig14_transcriptome.png
-"""
-
 import sys, gzip, re, warnings
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
