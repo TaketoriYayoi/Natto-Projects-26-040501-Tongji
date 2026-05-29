@@ -1,8 +1,3 @@
-"""
-utils.py — 公共工具函数
-供所有模块复用：路径管理、数据加载、绘图风格、日志记录
-"""
-
 import os
 import sys
 import logging
