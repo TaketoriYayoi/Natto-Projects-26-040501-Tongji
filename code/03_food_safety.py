@@ -1,22 +1,3 @@
-"""
-03_food_safety.py — 模块三：食品安全风险计算评估（修订版）
-──────────────────────────────────────────────────────
-方法：
-  - 使用 cFBA 实际通量 + FVA 最大通量（去掉边界打满问题）
-  - 将模型通量归一化为 per-unit-biomass（/生物量通量）
-  - PEA 在 iBsu1103 中最大通量=0（模型 gap），作为科学发现处理
-  - 苯丙氨酸摄取底物扫描：扫描 EX_cpd00066_c（无此反应）
-    → 改为扫描 amino acid supply proxy（EX_cpd00023_e glutamate）
-
-输出（code/output/）：
-  03_risk_fluxes.csv           风险代谢物的 cFBA 通量 + FVA 范围
-  03_pea_scan.csv              PEA exchange 上界扫描（模拟不同暴露）
-  03_risk_index.csv            不同场景综合风险指数 RI
-  fig07_pea_response.png       PEA 上界 vs 生物量曲线 + 安全阈值
-  fig08_risk_overview.png      风险代谢物通量概览（cFBA vs baseline）
-  fig09_risk_index_heatmap.png 不同条件 RI 热图
-"""
-
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
