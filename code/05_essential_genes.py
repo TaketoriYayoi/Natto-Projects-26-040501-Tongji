@@ -1,18 +1,3 @@
-"""
-05_essential_genes.py — 模块五：必需基因预测与网络脆弱性分析
-──────────────────────────────────────────────────────────────
-输出（code/output/）：
-  05_essential_standard.csv      标准条件必需基因
-  05_essential_natto.csv         纳豆发酵条件必需基因
-  05_natto_specific_essential.csv 纳豆特异性必需基因
-  05_fva_bottlenecks.csv         FVA 瓶颈反应（range<0.01）
-  05_network_nodes.csv           代谢物节点拓扑属性
-  05_network_edges.csv           代谢物-反应边表（二部图）
-  fig13_essential_gene_map.png   必需基因通量模块分布
-  fig14_network_topology.png     网络拓扑图（差异代谢物着色）
-  fig15_degree_distribution.png  代谢物度分布（幂律验证）
-"""
-
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
