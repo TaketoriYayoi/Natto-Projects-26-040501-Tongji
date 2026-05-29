@@ -1,16 +1,3 @@
-"""
-06_regenerate_figures.py  ——  最终版 v4（8张图，全部有实质数据）
-
-Fig 1: 2panel — Venn + 锚定代谢物化学类别条图
-Fig 2: 单图   — 火山图
-Fig 3: 重设计 — 通量变化瀑布图(+) / 散点比较图(-) 2panel
-Fig 4: 2panel — 风险RI分组条 + FSEOF靶标棒棒糖
-Fig 5: 重设计 — 28个纳豆特异性必需基因通路分组条+排名散点 2panel
-Fig 6: 2panel — FVA弹性饼图 + 度分布log-log
-Fig 7: 3panel — 产量缺口三产品对比（条图+缺口注释）
-Fig 8: 2panel — 锚定代谢物网络枢纽散点（degree vs betweenness）+ 方向标注
-"""
-
 import sys, shutil
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
