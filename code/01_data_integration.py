@@ -1,20 +1,3 @@
-"""
-01_data_integration.py — 模块一：数据整合与节点映射
-─────────────────────────────────────────────────────
-输入：
-  data/Table S1.xlsx        靶向代谢组学（纳豆 vs 大豆）
-  data/Table S2.xlsx        KEGG 通路富集
-  data/MODEL1507180015_url.xml  iBsu1103 代谢网络模型
-
-输出（全在 code/output/）：
-  01_mapped_metabolites.csv   83个锚定代谢物完整注释表
-  01_constraints_table.csv    exchange 约束边界设定表
-  01_unmapped_metabolites.csv 未命中模型的差异代谢物（供参考）
-  fig01_venn.png              三数据源交叉韦恩图
-  fig02_volcano.png           Volcano plot（标注命中节点）
-  fig03_mapped_barplot.png    命中代谢物按类别/方向分布
-"""
-
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
