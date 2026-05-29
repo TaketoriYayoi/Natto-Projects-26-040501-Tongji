@@ -1,19 +1,3 @@
-"""
-04_engineering_targets.py — 模块四：工程靶点预测（FSEOF）
-──────────────────────────────────────────────────────────
-目标代谢物（替代衣康酸，因 iBsu1103 无衣康酸合成路径）：
-  1. L-Ornithine      (EX_cpd00064_e)  — 已观测 FC=98x
-  2. L-Histidine      (EX_cpd00119_e)  — 代表 N-Ac-His 上游
-  3. L-Glutamate      (EX_cpd00023_e)  — TCA/AA 核心节点
-
-FSEOF 方法（Patil 2005）：
-  - 固定生物量目标 ≥ 80% 最大生物量
-  - 逐步提高目标产物 exchange 下界（0→最大）
-  - 记录每个反应通量随产量增加的斜率
-  - 斜率 > 0 且不影响生长 → 过表达靶点
-  - 斜率 < 0 且不影响生长 → 敲除靶点
-"""
-
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
