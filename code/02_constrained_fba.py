@@ -1,20 +1,3 @@
-"""
-02_constrained_fba.py — 模块二：约束型 FBA 通量重建
-──────────────────────────────────────────────────────
-输入：
-  data/MODEL1507180015_url.xml       iBsu1103 代谢网络模型
-  code/output/01_constraints_table.csv  模块一导出的 exchange 约束
-
-输出（全在 code/output/）：
-  02_baseline_fluxes.csv      标准 FBA 通量（全局）
-  02_cfba_fluxes.csv          约束型 FBA 通量（全局）
-  02_fva_ranges.csv           FVA 通量范围（所有反应）
-  02_flux_stories.csv         三条核心通量故事的定量结果
-  fig04_flux_heatmap.png      标准 vs 约束型通量差异热图（Top差异反应）
-  fig05_tca_fluxes.png        TCA 循环关键步骤通量对比柱状图
-  fig06_aa_gaba_fluxes.png    氨基酸与 GABA 转氨酶通量
-"""
-
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
