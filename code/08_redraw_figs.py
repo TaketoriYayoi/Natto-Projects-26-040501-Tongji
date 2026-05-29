@@ -1,7 +1,3 @@
-"""
-08_redraw_figs.py — 重绘 fig9/10/11 + 新增 fig12 通路流程图
-Times New Roman字体 · 鲜艳配色 · 紧凑无留白
-"""
 import sys, shutil
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
