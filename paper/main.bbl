@@ -1,0 +1,120 @@
+\begin{thebibliography}{10}
+
+\bibitem{Sumi1987}
+Hiroyuki Sumi, Hisashi Hamada, Haruo Tsushima, Hidenori Mihara, and Hideo
+  Muraki.
+\newblock A novel fibrinolytic enzyme (nattokinase) in the vegetable cheese
+  {Natto}; a typical and popular soybean food in the {Japanese} diet.
+\newblock {\em Experientia}, 43(10):1110--1111, 1987.
+
+\bibitem{Fujita1993}
+Mikio Fujita, Kenji Nomura, Keehoon Hong, Yoshihiro Ito, Akihisa Asada, and
+  Shinichi Nishimuro.
+\newblock Purification and characterization of a strong fibrinolytic enzyme
+  (nattokinase) in the vegetable cheese {Natto}, a popular soybean fermented
+  food in {Japan}.
+\newblock {\em Biochemical and Biophysical Research Communications},
+  197(3):1340--1347, 1993.
+
+\bibitem{Baslow2015}
+Morris~H. Baslow and D.~N. Guilfoyle.
+\newblock N-acetyl-l-histidine, a prominent biomolecule in brain and eye of
+  poikilothermic vertebrates.
+\newblock {\em Biomolecules}, 5(2):635--646, 2015.
+
+\bibitem{EFSA2011}
+{European Food Safety Authority (EFSA)}.
+\newblock Scientific opinion on risk based control of biogenic amine formation
+  in fermented foods.
+\newblock {\em EFSA Journal}, 9(10):2393, 2011.
+
+\bibitem{Ladero2010}
+Victor Ladero, Marina Calles-Enríquez, María Fernández, and Miguel~A.
+  Alvarez.
+\newblock Toxicological effects of dietary biogenic amines.
+\newblock {\em Current Nutrition \& Food Science}, 6(2):145--156, 2010.
+
+\bibitem{Orth2010}
+Jeffrey~D. Orth, Ines Thiele, and Bernhard~\O{} Palsson.
+\newblock What is flux balance analysis?
+\newblock {\em Nature Biotechnology}, 28(3):245--248, 2010.
+
+\bibitem{Burgard2003}
+Anthony~P. Burgard, Priti Pharkya, and Costas~D. Maranas.
+\newblock {OptKnock}: a bilevel programming framework for identifying gene
+  knockout strategies for microbial strain optimization.
+\newblock {\em Biotechnology and Bioengineering}, 84(6):647--657, 2003.
+
+\bibitem{Patil2005}
+Kiran~Raosaheb Patil, Mats Åkesson, and Jens Nielsen.
+\newblock Use of genome-scale microbial models for metabolic engineering.
+\newblock {\em Current Opinion in Biotechnology}, 15(1):64--69, 2004.
+
+\bibitem{Henry2009}
+Christopher~S. Henry, Juliane~F. Zinner, Matthew~P. Cohoon, and Rick~L.
+  Stevens.
+\newblock {iBsu1103}: a new genome-scale metabolic model of \textit{Bacillus
+  subtilis} based on {SEED} annotations.
+\newblock {\em Genome Biology}, 10(6):R69, 2009.
+
+\bibitem{Gudmundsson2010}
+Steinn Gudmundsson and Ines Thiele.
+\newblock Computationally efficient flux variability analysis.
+\newblock {\em BMC Bioinformatics}, 11:489, 2010.
+
+\bibitem{Teusink2006}
+Bas Teusink, Anne Wiersma, Douwe Molenaar, Christof Francke, Willem~M. de~Vos,
+  Roland~J. Siezen, and Eddy~J. Smid.
+\newblock Analysis of growth of \textit{Lactobacillus plantarum} {WCFS1} on a
+  complex medium using a genome-scale metabolic model.
+\newblock {\em Journal of Biological Chemistry}, 281(52):40041--40048, 2006.
+
+\bibitem{Feist2007}
+Adam~M. Feist, Christopher~S. Henry, Jennifer~L. Reed, Markus Krummenacker,
+  Andrew~R. Joyce, Peter~D. Karp, Linda~J. Broadbelt, Vassily Hatzimanikatis,
+  and Bernhard~\O{} Palsson.
+\newblock A genome-scale metabolic reconstruction for \textit{Escherichia coli}
+  {K-12 MG1655} that accounts for 1260 {ORFs} and thermodynamic information.
+\newblock {\em Molecular Systems Biology}, 3:121, 2007.
+
+\bibitem{Mahadevan2003}
+Radhakrishnan Mahadevan and C.~H. Schilling.
+\newblock The effects of alternate optimal solutions in constraint-based
+  genome-scale metabolic models.
+\newblock {\em Metabolic Engineering}, 5(4):264--276, 2003.
+
+\bibitem{Yin2024}
+Xuan Yin, Xinyu Wang, Li~Xu, Jian Zhao, Chun Li, and Jian Lin.
+\newblock Widely targeted metabolomics revealed the metabolic basis of
+  physiological function and flavor of natto.
+\newblock {\em Metabolites}, 14(12):663, 2024.
+
+\bibitem{Ebrahim2013}
+Ali Ebrahim, Joshua~A. Lerman, Bernhard~O. Palsson, and Daniel~R. Hyduke.
+\newblock {COBRApy}: {COnstraints-Based} reconstruction and analysis for
+  {Python}.
+\newblock {\em BMC Systems Biology}, 7:74, 2013.
+
+\bibitem{Hagberg2008}
+Aric~A. Hagberg, Daniel~A. Schult, and Pieter~J. Swart.
+\newblock Exploring network structure, dynamics, and function using {NetworkX}.
+\newblock In {\em Proceedings of the 7th Python in Science Conference}, pages
+  11--15, 2008.
+
+\bibitem{Newman2003}
+Mark E.~J. Newman.
+\newblock The structure and function of networks.
+\newblock {\em Computer Physics Communications}, 147(1--2):40--45, 2002.
+
+\bibitem{Nakano1998}
+Michiko~M. Nakano and Peter Zuber.
+\newblock Anaerobic growth of a strict aerobe (\textit{Bacillus subtilis}).
+\newblock {\em Annual Review of Microbiology}, 52:165--190, 1998.
+
+\bibitem{Jeong2000}
+Hawoong Jeong, B{\'a}lint Tombor, R{\'e}ka Albert, Zolt{\'a}n~N. Oltvai, and
+  Albert-L{\'a}szl{\'o} Barab{\'a}si.
+\newblock The large-scale organization of metabolic networks.
+\newblock {\em Nature}, 407(6804):651--654, 2000.
+
+\end{thebibliography}
