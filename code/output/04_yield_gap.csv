@@ -1,0 +1,4 @@
+﻿product,exchange_rxn,fc_observed,industrial_value,theo_max_flux,prac_max_flux,current_flux,yield_gap_pct
+L-Ornithine,EX_cpd00064_e,97.7,"health supplement, ~$20/kg",0.0,0.0,0.0,
+L-Histidine,EX_cpd00119_e,34.5,"N-Ac-His precursor, >$200/kg",10000.0,5277.6169,0.0,100.0
+L-Glutamate,EX_cpd00023_e,12.0,flavor / fermentation key node,10000.0,10000.0,-10000.0,200.0

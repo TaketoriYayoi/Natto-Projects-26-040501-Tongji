@@ -1,0 +1,21 @@
+﻿reaction,rxn_name,slope,intercept,gpr,n_genes,target_type,target_product,slope_norm
+rxn00539,Ethanolamine ammonia-lyase,1155.205425,-1497.1583,GROWMATCH,1,overexpress,L-Leucine,0.13133262098999887
+rxn05551,ethanolamine transport in/out via proton symport,1155.205425,-1497.1583,peg_DOT_3950,1,overexpress,L-Leucine,0.13133262098999887
+rxn01302,L-Homoserine:NADP+ oxidoreductase,1152.415181,-10205.5951,peg_DOT_3232,1,overexpress,L-Leucine,0.13101540463194583
+rxn01301,L-Homoserine:NAD+ oxidoreductase,-1152.415181,10205.5951,peg_DOT_3232,1,knockout,L-Leucine,-0.13101540463194583
+rxn00499,(S)-Lactate:NAD+ oxidoreductase,1098.359358,-189.1746,peg_DOT_306,1,overexpress,L-Leucine,0.12486992369779815
+rxn00542,(S)-Lactate acetaldehyde-lyase,-1098.359358,189.1746,GROWMATCH,1,knockout,L-Leucine,-0.12486992369779815
+rxn05559,formate transport in via proton symport,1096.786698,-10095.8526,peg_DOT_2723 or peg_DOT_3811,2,overexpress,L-Leucine,0.12469113163600867
+rxn01297,Xanthine:NAD+ oxidoreductase,-973.395553,8883.1108,peg_DOT_3253 and peg_DOT_3254 and peg_DOT_3255,3,knockout,L-Leucine,-0.11066307902380164
+rxn05202,Xanthine ion-coupled transport,-973.395553,-1116.8892,peg_DOT_2211 or (peg_DOT_3249 and peg_DOT_3250) or peg_DOT_6,6,knockout,L-Leucine,-0.11066307902380164
+rxn00011,pyruvate:thiamin diphosphate acetaldehydetransferase,965.819308,-1704.4131,(peg_DOT_1460 and peg_DOT_1461) or (peg_DOT_2833 and peg_DOT,5,overexpress,L-Leucine,0.10980175333091687
+rxn05535,Dipeptide transport via ABC system (gly-met),-944.501809,8370.4959,peg_DOT_1295 and peg_DOT_1296 and peg_DOT_1297 and peg_DOT_1,4,knockout,L-Leucine,-0.10737821639451295
+rxn09907,L-amino acid ligase (Gly-Met),944.501809,-8370.4959,GROWMATCH,1,overexpress,L-Leucine,0.10737821639451295
+rxn00742,L-Cystathionine Lysteine-lyase (deaminating),-942.32533,8241.343,peg_DOT_2728,1,knockout,L-Leucine,-0.1071307775534084
+rxn00693,5-Methyltetrahydrofolate:L-homocysteine S-methyltransfe,942.322454,-8241.1724,peg_DOT_1320 or (peg_DOT_3900 and peg_DOT_3901),3,overexpress,L-Leucine,0.10713045058764993
+rxn00910,5-methyltetrahydrofolate:NADP+ oxidoreductase,-942.322454,8241.1724,peg_DOT_1101,1,knockout,L-Leucine,-0.10713045058764993
+rxn10541,h2s transport (diffusion),941.228887,-8176.2799,GROWMATCH,1,overexpress,L-Leucine,0.10700612549599953
+rxn00566,L-Cysteine L-homocysteine-lyase (deaminating),-941.228887,8176.2799,peg_DOT_1189,1,knockout,L-Leucine,-0.10700612549599953
+rxn00692,"5,10-Methylenetetrahydrofolate:glycine hydroxymethyltra",-940.79553,-1131.2838,peg_DOT_3697,1,knockout,L-Leucine,-0.10695685814544639
+rxn00734,rxn00734,-937.143381,7933.8449,SPONTANEOUS,1,knockout,L-Leucine,-0.10654165381032478
+rxn00985,ATP:acetate phosphotransferase,935.048359,-7809.5258,peg_DOT_2950,1,overexpress,L-Leucine,0.10630347562630897

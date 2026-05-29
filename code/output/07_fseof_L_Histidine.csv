@@ -1,0 +1,21 @@
+﻿reaction,rxn_name,slope,intercept,gpr,n_genes,target_type,target_product,slope_norm
+rxn05617,mannitol transport via PEP:Pyr PTS,-779.149033,10147.8849,peg_DOT_1392 and peg_DOT_1393 and peg_DOT_399,3,knockout,L-Histidine,-0.14763273906559954
+rxn00546,D-Mannitol-1-phosphate:NAD+ 5-oxidoreductase,-779.149033,10147.8849,peg_DOT_400,1,knockout,L-Histidine,-0.14763273906559954
+rxn05569,D-glucosamine transport via PEP:Pyr PTS,751.891845,1485.8177,peg_DOT_1392 and peg_DOT_1393 and peg_DOT_236,3,overexpress,L-Histidine,0.14246806176609503
+rxn01236,ATP:butyrate 1-phosphotransferase,724.826037,-7326.4697,peg_DOT_2411,1,overexpress,L-Histidine,0.13733964704589913
+rxn00994,Butanoyl-CoA:acetoacetate CoA-transferase,724.826037,2673.5303,peg_DOT_3903 and peg_DOT_3904,2,overexpress,L-Histidine,0.13733964704589913
+rxn00871,Butanoyl-CoA:orthophosphate butanoyltransferase,-724.826037,7326.4697,peg_DOT_2413,1,knockout,L-Histidine,-0.13733964704589913
+rxn00988,Acetoacetate:CoA ligase (AMP-forming),-723.70697,7260.064,peg_DOT_1829,1,knockout,L-Histidine,-0.13712760683355127
+rxn05559,formate transport in via proton symport,703.633641,-9938.4557,peg_DOT_2723 or peg_DOT_3811,2,overexpress,L-Histidine,0.1333241232676095
+rxn00552,D-Glucosamine-6-phosphate ketol-isomerase(deaminating),682.86693,-1598.4388,peg_DOT_237 or peg_DOT_3508,2,overexpress,L-Histidine,0.1293892580538145
+rxn00831,Inosine 5'-monophosphate phosphohydrolase,482.313341,-398.2163,peg_DOT_784 or peg_DOT_733,2,overexpress,L-Histidine,0.09138847204307642
+rxn05491,adenine transport in via proton symport,-470.212427,9250.2854,MANUAL or OPEN or PROBLEM,3,knockout,L-Histidine,-0.08909559737680284
+rxn01297,Xanthine:NAD+ oxidoreductase,-470.209551,9250.1148,peg_DOT_3253 and peg_DOT_3254 and peg_DOT_3255,3,knockout,L-Histidine,-0.08909505243387206
+rxn05202,Xanthine ion-coupled transport,-470.209551,-749.8852,peg_DOT_2211 or (peg_DOT_3249 and peg_DOT_3250) or peg_DOT_6,6,knockout,L-Histidine,-0.08909505243387206
+rxn05299,HISt2,-441.400683,-0.0,peg_DOT_3944,1,knockout,L-Histidine,-0.08363636364381706
+rxn02835,"1-(5-phospho-D-ribosyl)-AMP 1,6-hydrolase",439.831994,93.0864,peg_DOT_3492,1,overexpress,L-Histidine,0.08333912929710886
+rxn03175,N-(5'-Phospho-D-ribosylformimino)-5-amino-1-,439.831994,93.0864,peg_DOT_3494,1,overexpress,L-Histidine,0.08333912929710886
+rxn02160,L-Histidinol-phosphate phosphohydrolase,439.831994,93.0864,peg_DOT_2965,1,overexpress,L-Histidine,0.08333912929710886
+rxn03137,10-Formyltetrahydrofolate:5'-phosphoribosyl-5-amino-4-,439.831994,93.0864,peg_DOT_653,1,overexpress,L-Histidine,0.08333912929710886
+rxn03135,Imidazole-glycerol-3-phosphate synthase,439.831994,93.0864,peg_DOT_3493 and peg_DOT_3495,2,overexpress,L-Histidine,0.08333912929710886
+rxn02473,D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate hydro-l,439.831994,93.0864,peg_DOT_3496,1,overexpress,L-Histidine,0.08333912929710886

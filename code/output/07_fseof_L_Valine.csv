@@ -1,0 +1,21 @@
+﻿reaction,rxn_name,slope,intercept,gpr,n_genes,target_type,target_product,slope_norm
+rxn05312,PIt6,1106.204006,13.7758,peg_DOT_1286,1,overexpress,L-Valine,0.11760489930577013
+rxn05535,Dipeptide transport via ABC system (gly-met),-1072.226353,10914.0931,peg_DOT_1295 and peg_DOT_1296 and peg_DOT_1297 and peg_DOT_1,4,knockout,L-Valine,-0.11399260135888367
+rxn09907,L-amino acid ligase (Gly-Met),1072.226353,-10914.0931,GROWMATCH,1,overexpress,L-Valine,0.11399260135888367
+rxn00742,L-Cystathionine Lysteine-lyase (deaminating),-1071.469827,10785.0001,peg_DOT_2728,1,knockout,L-Valine,-0.11391217210390932
+rxn00693,5-Methyltetrahydrofolate:L-homocysteine S-methyltransfe,1071.468828,-10784.8296,peg_DOT_1320 or (peg_DOT_3900 and peg_DOT_3901),3,overexpress,L-Valine,0.11391206589628962
+rxn00910,5-methyltetrahydrofolate:NADP+ oxidoreductase,-1071.468828,10784.8296,peg_DOT_1101,1,knockout,L-Valine,-0.11391206589628962
+rxn00566,L-Cysteine L-homocysteine-lyase (deaminating),-1071.088714,10719.9671,peg_DOT_1189,1,knockout,L-Valine,-0.11387165448171124
+rxn10541,h2s transport (diffusion),1071.088714,-10719.9671,GROWMATCH,1,overexpress,L-Valine,0.11387165448171124
+rxn05634,propionate transport in/out via proton symport,1068.940416,-10353.383,BIOLOGIN or OPEN or PROBLEM,3,overexpress,L-Valine,0.11364326047066226
+rxn00985,ATP:acetate phosphotransferase,1068.940416,-10353.383,peg_DOT_2950,1,overexpress,L-Valine,0.11364326047066226
+rxn00692,"5,10-Methylenetetrahydrofolate:glycine hydroxymethyltra",-1061.79778,1411.3812,peg_DOT_3697,1,knockout,L-Valine,-0.11288389874081715
+rxn00953,L-Serine hydro-lyase (adding homocysteine),-1059.620951,11039.9286,peg_DOT_2729,1,knockout,L-Valine,-0.11265247148692699
+rxn00734,rxn00734,-1057.912612,10321.9612,SPONTANEOUS,1,knockout,L-Valine,-0.11247085124781611
+rxn04092,D-alanine:oxygen oxidoreductase (deaminating),1045.832985,415.9685,peg_DOT_1168,1,overexpress,L-Valine,0.11118661858432831
+rxn00283,L-Alanine racemase,1016.749322,912.0998,peg_DOT_464,1,overexpress,L-Valine,0.10809461996562329
+rxn00148,ATP:pyruvate O2-phosphotransferase,-1010.540889,2154.6118,peg_DOT_2921,1,knockout,L-Valine,-0.107434577031543
+rxn05209,Proton sodium antiport,-998.066544,-1586.5064,peg_DOT_3163 and peg_DOT_3164 and peg_DOT_3165 and peg_DOT_3,7,knockout,L-Valine,-0.10610838034478969
+rxn00272,L-Alanine:glyoxylate aminotransferase,-986.773554,-1417.5003,peg_DOT_3258,1,knockout,L-Valine,-0.10490777815513257
+rxn05470,Glycolate transport via proton symport,-986.773554,-1417.5003,peg_DOT_3425 or peg_DOT_307,2,knockout,L-Valine,-0.10490777815513257
+rxn00512,Glycolate:NAD+ oxidoreductase,-986.773554,-1417.5003,peg_DOT_3474,1,knockout,L-Valine,-0.10490777815513257

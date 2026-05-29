@@ -1,0 +1,15 @@
+﻿label,reaction,baseline_flux,cfba_flux,delta,fold_change,story
+Citrate lyase (rxn00256),rxn00256,0.0,0.0,0.0,,TCA
+Isocitrate dehydrogenase (rxn01387),rxn01387,0.0,0.0,0.0,,TCA
+Isocitrate hydro-lyase (rxn01388),rxn01388,0.0,0.0,0.0,,TCA
+Succinate:CoA ligase (rxn00285),rxn00285,-10000.0,-10000.0,0.0,1.0,TCA
+Malate dehydratase (rxn00799),rxn00799,10000.0,10000.0,0.0,1.0,TCA
+Acetolactate synthase (rxn02185),rxn02185,0.0,-742.36902,-742.36902,,TCA
+GABA transaminase (rxn01204),rxn01204,10000.0,10000.0,0.0,1.0,TCA
+Phe decarboxylase/PEA synth (rxn11405-t),rxn11405,0.0,0.0,0.0,,AA
+Phenethylamine oxidase (rxn01903),rxn01903,0.0,0.0,0.0,,AA
+Ornithine carbamoyltransferase (rxn00573),rxn00573,,,,,AA
+Lysine degradation (rxn00460),rxn00460,,,,,AA
+His biosynthesis (rxn01977),rxn01977,0.0,0.0,0.0,,AA
+Succinate-semialdehyde DH (rxn00509),rxn00509,10000.0,10000.0,0.0,1.0,GABA
+Butyrate-CoA transferase (rxn00875),rxn00875,-10000.0,-10000.0,0.0,1.0,GABA

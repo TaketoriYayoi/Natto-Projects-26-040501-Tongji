@@ -1,0 +1,101 @@
+﻿reaction,rxn_name,slope,intercept,gpr,n_genes,target_type,target_product,slope_norm
+rxn05617,mannitol transport via PEP:Pyr PTS,-779.149033,10147.8849,peg_DOT_1392 and peg_DOT_1393 and peg_DOT_399,3,knockout,L-Histidine,-0.14763273906559954
+rxn00546,D-Mannitol-1-phosphate:NAD+ 5-oxidoreductase,-779.149033,10147.8849,peg_DOT_400,1,knockout,L-Histidine,-0.14763273906559954
+rxn05569,D-glucosamine transport via PEP:Pyr PTS,751.891845,1485.8177,peg_DOT_1392 and peg_DOT_1393 and peg_DOT_236,3,overexpress,L-Histidine,0.14246806176609503
+rxn01236,ATP:butyrate 1-phosphotransferase,724.826037,-7326.4697,peg_DOT_2411,1,overexpress,L-Histidine,0.13733964704589913
+rxn00994,Butanoyl-CoA:acetoacetate CoA-transferase,724.826037,2673.5303,peg_DOT_3903 and peg_DOT_3904,2,overexpress,L-Histidine,0.13733964704589913
+rxn00871,Butanoyl-CoA:orthophosphate butanoyltransferase,-724.826037,7326.4697,peg_DOT_2413,1,knockout,L-Histidine,-0.13733964704589913
+rxn00988,Acetoacetate:CoA ligase (AMP-forming),-723.70697,7260.064,peg_DOT_1829,1,knockout,L-Histidine,-0.13712760683355127
+rxn05559,formate transport in via proton symport,703.633641,-9938.4557,peg_DOT_2723 or peg_DOT_3811,2,overexpress,L-Histidine,0.1333241232676095
+rxn00552,D-Glucosamine-6-phosphate ketol-isomerase(deaminating),682.86693,-1598.4388,peg_DOT_237 or peg_DOT_3508,2,overexpress,L-Histidine,0.1293892580538145
+rxn00831,Inosine 5'-monophosphate phosphohydrolase,482.313341,-398.2163,peg_DOT_784 or peg_DOT_733,2,overexpress,L-Histidine,0.09138847204307642
+rxn05491,adenine transport in via proton symport,-470.212427,9250.2854,MANUAL or OPEN or PROBLEM,3,knockout,L-Histidine,-0.08909559737680284
+rxn01297,Xanthine:NAD+ oxidoreductase,-470.209551,9250.1148,peg_DOT_3253 and peg_DOT_3254 and peg_DOT_3255,3,knockout,L-Histidine,-0.08909505243387206
+rxn05202,Xanthine ion-coupled transport,-470.209551,-749.8852,peg_DOT_2211 or (peg_DOT_3249 and peg_DOT_3250) or peg_DOT_6,6,knockout,L-Histidine,-0.08909505243387206
+rxn05299,HISt2,-441.400683,-0.0,peg_DOT_3944,1,knockout,L-Histidine,-0.08363636364381706
+rxn02835,"1-(5-phospho-D-ribosyl)-AMP 1,6-hydrolase",439.831994,93.0864,peg_DOT_3492,1,overexpress,L-Histidine,0.08333912929710886
+rxn03175,N-(5'-Phospho-D-ribosylformimino)-5-amino-1-,439.831994,93.0864,peg_DOT_3494,1,overexpress,L-Histidine,0.08333912929710886
+rxn02160,L-Histidinol-phosphate phosphohydrolase,439.831994,93.0864,peg_DOT_2965,1,overexpress,L-Histidine,0.08333912929710886
+rxn03137,10-Formyltetrahydrofolate:5'-phosphoribosyl-5-amino-4-,439.831994,93.0864,peg_DOT_653,1,overexpress,L-Histidine,0.08333912929710886
+rxn03135,Imidazole-glycerol-3-phosphate synthase,439.831994,93.0864,peg_DOT_3493 and peg_DOT_3495,2,overexpress,L-Histidine,0.08333912929710886
+rxn02473,D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate hydro-l,439.831994,93.0864,peg_DOT_3496,1,overexpress,L-Histidine,0.08333912929710886
+rxn05298,GLUt4i,-353.236155,-4179.5028,peg_DOT_913 or peg_DOT_1022,2,knockout,L-Glutamate,-0.0353236155
+rxn05500,L-arabinose transport via proton symport,346.772267,-10272.7874,peg_DOT_3402,1,overexpress,L-Glutamate,0.0346772267
+rxn04082,L-ribulose-5-phosphate 4-epimerase,346.772267,-10272.7874,peg_DOT_2881,1,overexpress,L-Glutamate,0.0346772267
+rxn01292,L-Arabinose ketol-isomerase,346.772267,-10272.7874,peg_DOT_2883,1,overexpress,L-Glutamate,0.0346772267
+rxn01763,ATP:L-ribulose 5-phosphotransferase,346.772267,-10272.7874,peg_DOT_2882,1,overexpress,L-Glutamate,0.0346772267
+rxn05568,D-glucosamine 6-phosphate reversible uniport,-303.921736,4057.8871,BIOLOGIN or OPEN or PROBLEM,3,knockout,L-Glutamate,-0.030392173600000003
+rxn00555,L-Glutamine:D-fructose-6-phosphate aminotransferase (he,303.921736,-4057.8871,peg_DOT_178,1,overexpress,L-Glutamate,0.030392173600000003
+rxn05216,Na+ Glutamine symporter,258.636921,-3169.2432,peg_DOT_243,1,overexpress,L-Glutamate,0.0258636921
+rxn01143,ATP:thymidine 5'-phosphotransferase,-217.310531,642.2302,peg_DOT_3713,1,knockout,L-Glutamate,-0.021731053099999998
+rxn05200,Thymidine ion-coupled transport,-217.310531,642.2302,peg_DOT_3224 or peg_DOT_3907 or peg_DOT_3946,3,knockout,L-Glutamate,-0.021731053099999998
+rxn05679,dTMP transport in/out via proton symport,217.310531,-245.3903,BIOLOGIN or OPEN or PROBLEM,3,overexpress,L-Glutamate,0.021731053099999998
+rxn05472,2-(hydroxymethyl)phenol transport in/out via proton sym,198.951967,5407.5325,GROWMATCH,1,overexpress,L-Glutamate,0.0198951967
+rxn05647,salicin transport via PEP:Pyr PTS,-198.951967,-5407.5325,peg_DOT_1392 and peg_DOT_1393 and peg_DOT_3932,3,knockout,L-Glutamate,-0.0198951967
+rxn00545,ATP:D-fructose-6-phosphate 1-phosphotransferase,-187.364683,-7924.1653,peg_DOT_2922,1,knockout,L-Glutamate,-0.0187364683
+rxn00786,"D-Fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphat",-187.364683,-7924.1653,peg_DOT_3719,1,knockout,L-Glutamate,-0.0187364683
+rxn03482,Salicin 6-phosphate glucohydrolase,-178.690848,-5760.4136,peg_DOT_3861 or peg_DOT_4017,2,knockout,L-Glutamate,-0.017869084799999997
+rxn00148,ATP:pyruvate O2-phosphotransferase,-153.85249,-5070.4237,peg_DOT_2921,1,knockout,L-Glutamate,-0.015385248999999998
+rxn01334,"Sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosp",115.590756,-149.7883,peg_DOT_3719,1,overexpress,L-Glutamate,0.0115590756
+rxn01343,ATP:Sedoheptulose 7-phosphate 1-phosphotransferase,115.590756,-149.7883,peg_DOT_2922,1,overexpress,L-Glutamate,0.0115590756
+rxn01200,Sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate,-115.590756,149.7883,peg_DOT_1793,1,knockout,L-Glutamate,-0.0115590756
+rxn05582,glycine transport in/out via proton symport,922.704935,-10586.0356,peg_DOT_562 or peg_DOT_2712,2,overexpress,L-Serine,0.0922704935
+rxn05307,SERt2,-822.465782,-106.5502,BIOLOGIN or OPEN or PROBLEM,3,knockout,L-Serine,-0.0822465782
+rxn05672,D-glutamate transport in via proton symport,-726.605501,6594.9327,BIOLOGIN or OPEN or PROBLEM,3,knockout,L-Serine,-0.0726605501
+rxn00193,L-Glutamate racemase,725.89196,-6479.0131,peg_DOT_2842,1,overexpress,L-Serine,0.07258919600000001
+rxn00692,"5,10-Methylenetetrahydrofolate:glycine hydroxymethyltra",556.215785,-2131.8085,peg_DOT_3697,1,overexpress,L-Serine,0.0556215785
+rxn00908,glycine synthase,515.881173,-365.9211,peg_DOT_2459 and peg_DOT_2460 and peg_DOT_2461 and peg_DOT_3,4,overexpress,L-Serine,0.0515881173
+rxn05207,Na+/malate symporter,419.789734,-4945.9481,peg_DOT_3161 or peg_DOT_2361,2,overexpress,L-Serine,0.0419789734
+rxn00799,(S)-Malate hydro-lyase,419.789734,5054.0519,peg_DOT_3310,1,overexpress,L-Serine,0.0419789734
+rxn00189,L-Glutamine amidohydrolase,388.221954,772.5585,peg_DOT_1485 or peg_DOT_244,2,overexpress,L-Serine,0.038822195399999995
+rxn09925,L-amino acid ligase (gly-gln),-384.778756,-1331.9296,GROWMATCH,1,knockout,L-Serine,-0.038477875599999996
+rxn05547,Dipeptide transport via ABC system (gly-gln),384.778756,1331.9296,peg_DOT_1295 and peg_DOT_1296 and peg_DOT_1297 and peg_DOT_1,4,overexpress,L-Serine,0.038477875599999996
+rxn00288,Succinate:(acceptor) oxidoreductase,-336.324344,7032.9594,peg_DOT_2846 and peg_DOT_2847 and peg_DOT_2848,3,knockout,L-Serine,-0.0336324344
+rxn00285,Succinate:CoA ligase (ADP-forming),336.324344,-7032.9594,peg_DOT_1611 and peg_DOT_1612,2,overexpress,L-Serine,0.0336324344
+rxn00441,2-Oxoglutarate:Thiamin diphosphate 2-oxidoreductase(dec,-336.324344,7032.9594,peg_DOT_1942,1,knockout,L-Serine,-0.0336324344
+rxn02376,3-Carboxy-1-hydroxypropyl-ThPP:lipoamde,-336.324344,7032.9594,peg_DOT_1942,1,knockout,L-Serine,-0.0336324344
+rxn01872,succinyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-succinyl,336.324344,-7032.9594,peg_DOT_1941,1,overexpress,L-Serine,0.0336324344
+rxn01241,Dihydrolipoamide:NAD+ oxidoreductase,-329.839252,5979.4118,peg_DOT_1463 or peg_DOT_2410,2,knockout,L-Serine,-0.0329839252
+rxn00364,ATP:CMP phosphotransferase,-283.6261,9806.4453,peg_DOT_2293,1,knockout,L-Serine,-0.02836261
+rxn00409,ATP:nucleoside-diphosphate phosphatransferase,-283.501952,9786.2765,peg_DOT_2277,1,knockout,L-Serine,-0.0283501952
+rxn01370,dGTP:uridine 5'-phosphotransferase,280.658062,675.7328,peg_DOT_2736,1,overexpress,L-Serine,0.028065806199999998
+rxn05312,PIt6,1106.204006,13.7758,peg_DOT_1286,1,overexpress,L-Valine,0.11760489930577013
+rxn05535,Dipeptide transport via ABC system (gly-met),-1072.226353,10914.0931,peg_DOT_1295 and peg_DOT_1296 and peg_DOT_1297 and peg_DOT_1,4,knockout,L-Valine,-0.11399260135888367
+rxn09907,L-amino acid ligase (Gly-Met),1072.226353,-10914.0931,GROWMATCH,1,overexpress,L-Valine,0.11399260135888367
+rxn00742,L-Cystathionine Lysteine-lyase (deaminating),-1071.469827,10785.0001,peg_DOT_2728,1,knockout,L-Valine,-0.11391217210390932
+rxn00693,5-Methyltetrahydrofolate:L-homocysteine S-methyltransfe,1071.468828,-10784.8296,peg_DOT_1320 or (peg_DOT_3900 and peg_DOT_3901),3,overexpress,L-Valine,0.11391206589628962
+rxn00910,5-methyltetrahydrofolate:NADP+ oxidoreductase,-1071.468828,10784.8296,peg_DOT_1101,1,knockout,L-Valine,-0.11391206589628962
+rxn00566,L-Cysteine L-homocysteine-lyase (deaminating),-1071.088714,10719.9671,peg_DOT_1189,1,knockout,L-Valine,-0.11387165448171124
+rxn10541,h2s transport (diffusion),1071.088714,-10719.9671,GROWMATCH,1,overexpress,L-Valine,0.11387165448171124
+rxn05634,propionate transport in/out via proton symport,1068.940416,-10353.383,BIOLOGIN or OPEN or PROBLEM,3,overexpress,L-Valine,0.11364326047066226
+rxn00985,ATP:acetate phosphotransferase,1068.940416,-10353.383,peg_DOT_2950,1,overexpress,L-Valine,0.11364326047066226
+rxn00692,"5,10-Methylenetetrahydrofolate:glycine hydroxymethyltra",-1061.79778,1411.3812,peg_DOT_3697,1,knockout,L-Valine,-0.11288389874081715
+rxn00953,L-Serine hydro-lyase (adding homocysteine),-1059.620951,11039.9286,peg_DOT_2729,1,knockout,L-Valine,-0.11265247148692699
+rxn00734,rxn00734,-1057.912612,10321.9612,SPONTANEOUS,1,knockout,L-Valine,-0.11247085124781611
+rxn04092,D-alanine:oxygen oxidoreductase (deaminating),1045.832985,415.9685,peg_DOT_1168,1,overexpress,L-Valine,0.11118661858432831
+rxn00283,L-Alanine racemase,1016.749322,912.0998,peg_DOT_464,1,overexpress,L-Valine,0.10809461996562329
+rxn00148,ATP:pyruvate O2-phosphotransferase,-1010.540889,2154.6118,peg_DOT_2921,1,knockout,L-Valine,-0.107434577031543
+rxn05209,Proton sodium antiport,-998.066544,-1586.5064,peg_DOT_3163 and peg_DOT_3164 and peg_DOT_3165 and peg_DOT_3,7,knockout,L-Valine,-0.10610838034478969
+rxn00272,L-Alanine:glyoxylate aminotransferase,-986.773554,-1417.5003,peg_DOT_3258,1,knockout,L-Valine,-0.10490777815513257
+rxn05470,Glycolate transport via proton symport,-986.773554,-1417.5003,peg_DOT_3425 or peg_DOT_307,2,knockout,L-Valine,-0.10490777815513257
+rxn00512,Glycolate:NAD+ oxidoreductase,-986.773554,-1417.5003,peg_DOT_3474,1,knockout,L-Valine,-0.10490777815513257
+rxn00539,Ethanolamine ammonia-lyase,1155.205425,-1497.1583,GROWMATCH,1,overexpress,L-Leucine,0.13133262098999887
+rxn05551,ethanolamine transport in/out via proton symport,1155.205425,-1497.1583,peg_DOT_3950,1,overexpress,L-Leucine,0.13133262098999887
+rxn01302,L-Homoserine:NADP+ oxidoreductase,1152.415181,-10205.5951,peg_DOT_3232,1,overexpress,L-Leucine,0.13101540463194583
+rxn01301,L-Homoserine:NAD+ oxidoreductase,-1152.415181,10205.5951,peg_DOT_3232,1,knockout,L-Leucine,-0.13101540463194583
+rxn00499,(S)-Lactate:NAD+ oxidoreductase,1098.359358,-189.1746,peg_DOT_306,1,overexpress,L-Leucine,0.12486992369779815
+rxn00542,(S)-Lactate acetaldehyde-lyase,-1098.359358,189.1746,GROWMATCH,1,knockout,L-Leucine,-0.12486992369779815
+rxn05559,formate transport in via proton symport,1096.786698,-10095.8526,peg_DOT_2723 or peg_DOT_3811,2,overexpress,L-Leucine,0.12469113163600867
+rxn01297,Xanthine:NAD+ oxidoreductase,-973.395553,8883.1108,peg_DOT_3253 and peg_DOT_3254 and peg_DOT_3255,3,knockout,L-Leucine,-0.11066307902380164
+rxn05202,Xanthine ion-coupled transport,-973.395553,-1116.8892,peg_DOT_2211 or (peg_DOT_3249 and peg_DOT_3250) or peg_DOT_6,6,knockout,L-Leucine,-0.11066307902380164
+rxn00011,pyruvate:thiamin diphosphate acetaldehydetransferase,965.819308,-1704.4131,(peg_DOT_1460 and peg_DOT_1461) or (peg_DOT_2833 and peg_DOT,5,overexpress,L-Leucine,0.10980175333091687
+rxn05535,Dipeptide transport via ABC system (gly-met),-944.501809,8370.4959,peg_DOT_1295 and peg_DOT_1296 and peg_DOT_1297 and peg_DOT_1,4,knockout,L-Leucine,-0.10737821639451295
+rxn09907,L-amino acid ligase (Gly-Met),944.501809,-8370.4959,GROWMATCH,1,overexpress,L-Leucine,0.10737821639451295
+rxn00742,L-Cystathionine Lysteine-lyase (deaminating),-942.32533,8241.343,peg_DOT_2728,1,knockout,L-Leucine,-0.1071307775534084
+rxn00693,5-Methyltetrahydrofolate:L-homocysteine S-methyltransfe,942.322454,-8241.1724,peg_DOT_1320 or (peg_DOT_3900 and peg_DOT_3901),3,overexpress,L-Leucine,0.10713045058764993
+rxn00910,5-methyltetrahydrofolate:NADP+ oxidoreductase,-942.322454,8241.1724,peg_DOT_1101,1,knockout,L-Leucine,-0.10713045058764993
+rxn10541,h2s transport (diffusion),941.228887,-8176.2799,GROWMATCH,1,overexpress,L-Leucine,0.10700612549599953
+rxn00566,L-Cysteine L-homocysteine-lyase (deaminating),-941.228887,8176.2799,peg_DOT_1189,1,knockout,L-Leucine,-0.10700612549599953
+rxn00692,"5,10-Methylenetetrahydrofolate:glycine hydroxymethyltra",-940.79553,-1131.2838,peg_DOT_3697,1,knockout,L-Leucine,-0.10695685814544639
+rxn00734,rxn00734,-937.143381,7933.8449,SPONTANEOUS,1,knockout,L-Leucine,-0.10654165381032478
+rxn00985,ATP:acetate phosphotransferase,935.048359,-7809.5258,peg_DOT_2950,1,overexpress,L-Leucine,0.10630347562630897

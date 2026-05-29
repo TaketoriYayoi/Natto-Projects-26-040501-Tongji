@@ -1,0 +1,25 @@
+gene,bsu,peg_id,function,glc_mean,glu_mean,both_mean,glu_vs_glc,direction
+hisC,BSU23350,peg.3498,Histidinol-P aminotransferase,-4.595,-0.863,-0.946,3.733,up_in_glu
+ptsG,BSU01530,peg.1441-like(ptsG-KO),"Fructose PTS (KO target, slope=-1.75)",-2.719,-0.215,-0.074,2.505,up_in_glu
+speA,BSU05160,peg.0508,Arginine decarboxylase (Arg catabolism),-2.774,-1.168,-1.262,1.605,up_in_glu
+mtlA,BSU16390,peg.2707-like(mtlA),Mannitol PTS (KO target),-2.204,-0.662,-0.343,1.542,up_in_glu
+hisF,BSU23320,peg.3495,HisF cyclase,-1.722,-1.068,-0.521,0.654,up_in_glu
+tyrA,BSU10540,peg.2268,Prephenate dehydrogenase (Tyr),-1.422,-1.069,-0.55,0.353,stable
+pfk,BSU22370,peg.2922,Phosphofructokinase (OE target),-0.906,-0.783,-1.04,0.123,stable
+hisG,BSU23290,peg.3492,"ATP-PRTase, His biosyn step1 (rate-limiting)",-2.793,-2.673,-2.438,0.12,stable
+ilvD,BSU10510,peg.2830,Dihydroxy-acid dehydratase,-0.2,-0.19,0.357,0.01,stable
+hisA,BSU23310,peg.3494,HisA isomerase,-0.78,-0.945,-1.353,-0.165,stable
+hisD,BSU23360,peg.3499,Histidinol dehydrogenase,0.352,0.082,-1.11,-0.27,stable
+pheA,BSU28670,peg.2267,Prephenate dehydratase (Phe),-1.388,-1.751,-1.484,-0.363,stable
+hisI,BSU23300,peg.3493,Phosphoribosyl-ATP PPase,0.047,-0.408,-0.921,-0.455,stable
+alsD,BSU28050,peg.2834,Acetolactate decarboxylase,0.267,-0.325,0.583,-0.592,down_in_glu
+pyk,BSU22360,peg.2921,Pyruvate kinase (OE target),1.045,0.318,0.044,-0.727,down_in_glu
+pgsA,BSU04220,N/A(natto-specific),gamma-PGA synthase subunit A,1.942,0.822,0.295,-1.121,down_in_glu
+pgsC,BSU36830,N/A(natto-specific),gamma-PGA synthase subunit C,2.539,1.059,0.26,-1.48,down_in_glu
+hisH,BSU23330,peg.3496,HisH glutaminase,-6.45,-8.202,-6.0,-1.752,down_in_glu
+pgsB,BSU36820,N/A(natto-specific),gamma-PGA synthase subunit B,4.126,2.078,-0.127,-2.048,down_in_glu
+ilvC,BSU14070,peg.2832,"Ketol-acid reductoisomerase (5 rxns, hub)",-5.96,-8.05,-5.433,-2.089,down_in_glu
+hisB,BSU23340,peg.3497,Imidazole-GP dehydratase,-6.099,-8.202,-5.844,-2.103,down_in_glu
+aprE,BSU27610,N/A(natto-specific),Nattokinase (natto-specific secreted protease),2.016,-0.146,-0.569,-2.162,down_in_glu
+alsS,BSU27920,peg.2833,Acetolactate synthase (flux spike -742),3.056,0.118,-0.407,-2.938,down_in_glu
+aroA,BSU23250,peg.2266-cluster(aroA),Shikimate pathway (Phe/Tyr/Trp),5.268,0.697,-0.538,-4.571,down_in_glu

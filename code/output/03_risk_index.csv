@@ -1,0 +1,6 @@
+﻿scenario,Phenethylamine,Phenylacetyl-Gln(PAGln),L-Arg (ADMA proxy),RI_total
+Open (baseline),0.0,5.0,3.3333,8.3333
+Natto (standard),0.0,0.6838,2.6092,3.293
+Natto + PEA control,0.0,0.6838,2.6092,3.293
+Natto + low hydrolysis,0.0,0.6838,2.6092,3.293
+Natto + minimal AA,0.0,0.6838,2.6092,3.293

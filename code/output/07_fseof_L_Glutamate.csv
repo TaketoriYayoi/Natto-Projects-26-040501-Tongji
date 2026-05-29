@@ -1,0 +1,21 @@
+﻿reaction,rxn_name,slope,intercept,gpr,n_genes,target_type,target_product,slope_norm
+rxn05298,GLUt4i,-353.236155,-4179.5028,peg_DOT_913 or peg_DOT_1022,2,knockout,L-Glutamate,-0.0353236155
+rxn05500,L-arabinose transport via proton symport,346.772267,-10272.7874,peg_DOT_3402,1,overexpress,L-Glutamate,0.0346772267
+rxn04082,L-ribulose-5-phosphate 4-epimerase,346.772267,-10272.7874,peg_DOT_2881,1,overexpress,L-Glutamate,0.0346772267
+rxn01292,L-Arabinose ketol-isomerase,346.772267,-10272.7874,peg_DOT_2883,1,overexpress,L-Glutamate,0.0346772267
+rxn01763,ATP:L-ribulose 5-phosphotransferase,346.772267,-10272.7874,peg_DOT_2882,1,overexpress,L-Glutamate,0.0346772267
+rxn05568,D-glucosamine 6-phosphate reversible uniport,-303.921736,4057.8871,BIOLOGIN or OPEN or PROBLEM,3,knockout,L-Glutamate,-0.030392173600000003
+rxn00555,L-Glutamine:D-fructose-6-phosphate aminotransferase (he,303.921736,-4057.8871,peg_DOT_178,1,overexpress,L-Glutamate,0.030392173600000003
+rxn05216,Na+ Glutamine symporter,258.636921,-3169.2432,peg_DOT_243,1,overexpress,L-Glutamate,0.0258636921
+rxn01143,ATP:thymidine 5'-phosphotransferase,-217.310531,642.2302,peg_DOT_3713,1,knockout,L-Glutamate,-0.021731053099999998
+rxn05200,Thymidine ion-coupled transport,-217.310531,642.2302,peg_DOT_3224 or peg_DOT_3907 or peg_DOT_3946,3,knockout,L-Glutamate,-0.021731053099999998
+rxn05679,dTMP transport in/out via proton symport,217.310531,-245.3903,BIOLOGIN or OPEN or PROBLEM,3,overexpress,L-Glutamate,0.021731053099999998
+rxn05472,2-(hydroxymethyl)phenol transport in/out via proton sym,198.951967,5407.5325,GROWMATCH,1,overexpress,L-Glutamate,0.0198951967
+rxn05647,salicin transport via PEP:Pyr PTS,-198.951967,-5407.5325,peg_DOT_1392 and peg_DOT_1393 and peg_DOT_3932,3,knockout,L-Glutamate,-0.0198951967
+rxn00545,ATP:D-fructose-6-phosphate 1-phosphotransferase,-187.364683,-7924.1653,peg_DOT_2922,1,knockout,L-Glutamate,-0.0187364683
+rxn00786,"D-Fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphat",-187.364683,-7924.1653,peg_DOT_3719,1,knockout,L-Glutamate,-0.0187364683
+rxn03482,Salicin 6-phosphate glucohydrolase,-178.690848,-5760.4136,peg_DOT_3861 or peg_DOT_4017,2,knockout,L-Glutamate,-0.017869084799999997
+rxn00148,ATP:pyruvate O2-phosphotransferase,-153.85249,-5070.4237,peg_DOT_2921,1,knockout,L-Glutamate,-0.015385248999999998
+rxn01334,"Sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosp",115.590756,-149.7883,peg_DOT_3719,1,overexpress,L-Glutamate,0.0115590756
+rxn01343,ATP:Sedoheptulose 7-phosphate 1-phosphotransferase,115.590756,-149.7883,peg_DOT_2922,1,overexpress,L-Glutamate,0.0115590756
+rxn01200,Sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate,-115.590756,149.7883,peg_DOT_1793,1,knockout,L-Glutamate,-0.0115590756

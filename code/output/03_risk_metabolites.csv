@@ -1,0 +1,4 @@
+﻿metabolite,exchange_rxn,fc_observed,risk_type,adi_rel,baseline_max_flux,natto_max_flux,ri_natto
+Phenethylamine,EX_cpd03161_e,55.35,biogenic amine / BP↑,1.0,0.0,0.0,0.0
+Phenylacetyl-Gln,EX_cpd00053_e,3.28,TMAO-like / thrombosis,3.0,10000.0,10000.0,3333.3333
+L-Arginine(ADMA proxy),EX_cpd03535_e,25.7,eNOS inhibitor / vascular,2.0,10000.0,10000.0,5000.0

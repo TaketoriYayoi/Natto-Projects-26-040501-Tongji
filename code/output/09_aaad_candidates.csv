@@ -1,0 +1,5 @@
+locus_tag,gene,protein_acc,product,length_aa,start,end,strand,priority,reason,evidence_type
+BSNT_RS03085,,WP_014478967.1,pyridoxal phosphate-dependent decarboxylase family protein,480,579383,580825,-,1,PLP-dependent decarboxylase family; 480aa; adjacent to PLP-aminotransferase (ydfD); no BSU168 ortholog,Sequence + genomic context + model gap
+BSNT_RS02105,bsdC,WP_003240157.1,phenolic acid decarboxylase BsdC,473,409746,411167,+,2,Phenolic acid decarboxylase BsdC; acts on hydroxycinnamic acids; may accept L-Phe as substrate,Substrate promiscuity
+BSNT_RS18045,padC,WP_003243190.1,phenolic acid decarboxylase,161,3362347,3362832,-,3,padC; phenolic acid decarboxylase; shorter (161aa); acts on p-coumaric/ferulic acids,Substrate overlap
+BSNT_RS20075,bacA,WP_009968341.1,prephenate decarboxylase,0,3745576,3746190,-,4,bacA; prephenate decarboxylase in bacilysin biosynthesis; not canonical AAAD,Structural similarity only

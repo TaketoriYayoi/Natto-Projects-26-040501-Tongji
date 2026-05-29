@@ -1,0 +1,21 @@
+﻿reaction,rxn_name,slope,intercept,gpr,n_genes,target_type
+rxn05559,formate transport in via proton symport,2.110786,-9541.5356,peg_DOT_2723 or peg_DOT_3811,2,overexpress
+rxn05319,H2Ot5,1.786823,-2056.9453,SPONTANEOUS,1,overexpress
+rxn00545,ATP:D-fructose-6-phosphate 1-phosphotransferase,1.745984,-9415.0225,peg_DOT_2922,1,overexpress
+rxn01492,ATP:D-fructose-1-phosphate 6-phosphotransferase,-1.745984,-584.9775,peg_DOT_1441,1,knockout
+rxn05560,D-fructose transport via PEP:Pyr PTS,-1.745965,9414.5114,(peg_DOT_1392 and peg_DOT_1442 and peg_DOT_2707) or (peg_DOT,6,knockout
+rxn00148,ATP:pyruvate O2-phosphotransferase,1.69614,-10561.6342,peg_DOT_2921,1,overexpress
+rxn00506,Acetaldehyde:NAD+ oxidoreductase,-1.226314,101.0372,peg_DOT_735 or peg_DOT_3801 or peg_DOT_1936 or peg_DOT_3888 ,5,knockout
+rxn01484,N-Acetyl-D-glucosamine-6-phosphate amidohydrolase,1.127656,-10080.5837,peg_DOT_3507,1,overexpress
+rxn00499,(S)-Lactate:NAD+ oxidoreductase,1.114345,365.16,peg_DOT_306,1,overexpress
+rxn00542,(S)-Lactate acetaldehyde-lyase,-1.114345,-365.16,GROWMATCH,1,knockout
+rxn05485,N-Acetyl-D-glucosamine transport via PEP:Pyr PTS,1.113266,-9703.3451,peg_DOT_1392 and peg_DOT_1393 and peg_DOT_770,3,overexpress
+rxn00695,ATP:alpha-D-glucose-1-phosphate adenyltransferase,-1.111372,11022.4409,peg_DOT_3099 and peg_DOT_3100,2,knockout
+rxn08615,glycogen synthase (ADPGlc),-1.111372,11022.4409,peg_DOT_3098,1,knockout
+rxn05740,cpd00155 phosphorylase,-1.111372,11022.4409,peg_DOT_3097,1,knockout
+rxn03482,Salicin 6-phosphate glucohydrolase,1.087658,-4169.9804,peg_DOT_3861 or peg_DOT_4017,2,overexpress
+rxn02380,beta-D-Glucose 6-phosphate ketol-isomerase,1.087658,-4169.9804,peg_DOT_3138,1,overexpress
+rxn05472,2-(hydroxymethyl)phenol transport in/out via proton sym,-1.087658,4169.9804,GROWMATCH,1,knockout
+rxn05647,salicin transport via PEP:Pyr PTS,1.087658,-4169.9804,peg_DOT_1392 and peg_DOT_1393 and peg_DOT_3932,3,overexpress
+rxn00712,UTP:uridine 5'-phosphotransferase,1.046285,687.5689,peg_DOT_2736,1,overexpress
+rxn00117,ATP:nucleoside-diphosphate phosphatransferase,1.007209,-8288.0315,peg_DOT_2277,1,overexpress

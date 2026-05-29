@@ -1,0 +1,4 @@
+metabolite,exchange_rxn,fc_observed,risk_type,note,baseline_flux,cfba_flux,fva_min,fva_max,norm_cfba,adi_norm,ri_cfba,ri_baseline
+Phenethylamine,EX_cpd03161_e,55.35,Biogenic amine; BP elevation,MODEL GAP: no Phe decarboxylase in iBsu1103,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0
+Phenylacetyl-Gln(PAGln),EX_cpd00053_e,3.28,Platelet activation; pro-thrombotic,Gln exchange used as proxy for PAGln,10000.0,1368.0,0.0,10000.0,0.1368,0.2,0.684,5.0
+L-Arg (ADMA proxy),EX_cpd03535_e,25.7,eNOS inhibition; endothelial damage,Arg-phosphate exchange (cpd03535),10000.0,9780.6282,0.0,10000.0,0.978063,0.3,3.2602,3.3333

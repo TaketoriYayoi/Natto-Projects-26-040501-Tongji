@@ -1,0 +1,398 @@
+﻿,minimum,maximum,range,rxn_name
+EX_cpd00681_e,0.0,0.0,0.0,EX_cpd00681_e
+EX_cpd11589_e,0.0,0.0,0.0,EX_cpd11589_e
+EX_cpd01415_e,0.0,0.0,0.0,EX_cpd01415_e
+EX_cpd03724_e,0.0,0.0,0.0,EX_cpd03724_e
+EX_cpd03424_e,0.0,0.0,0.0,EX_cpd03424_e
+EX_cpd01132_e,0.0,0.0,0.0,EX_cpd01132_e
+EX_cpd05158_e,0.0,0.0,0.0,EX_cpd05158_e
+EX_cpd00244_e,0.0,0.0,0.0,EX_cpd00244_e
+EX_cpd11582_e,0.0,0.0,0.0,EX_cpd11582_e
+EX_cpd00210_e,0.0,0.0,0.0,EX_cpd00210_e
+EX_cpd00034_e,0.0,0.0,0.0,EX_cpd00034_e
+EX_cpd00149_e,0.0,0.0,0.0,EX_cpd00149_e
+EX_cpd11583_e,0.0,0.0,0.0,EX_cpd11583_e
+EX_cpd01991_e,0.0,0.0,0.0,EX_cpd01991_e
+EX_cpd11596_e,0.0,0.0,0.0,EX_cpd11596_e
+rxn01355,0.0,0.0,0.0,Propanoyl-CoA:carbon-dioxide ligase (ADP-forming)
+EX_cpd11578_e,0.0,0.0,0.0,EX_cpd11578_e
+rxn05092,0.0,0.0,0.0,"1,2-dihydroxy-5-(methylthio)pent-1-en-3-one:oxygen oxidoredu"
+rxn01985,0.0,0.0,0.0,Deoxyinosine:orthophosphate ribosyltransferase
+rxn02222,0.0,0.0,0.0,Indole-3-acetamide amidohydrolase
+rxn01675,0.0,0.0,0.0,dTTP:alpha-D-glucose-1-phosphate thymidylyltransferase
+rxn05252,0.0,0.0,0.0,FACOAL170(ISO)
+rxn05691,0.0,0.0,0.0,L-Fucose transport in via proton symport
+rxn00016,0.0,0.0,0.0,Hexosaminidase
+rxn08707,0.0,0.0,0.0,Heme O synthase
+rxn05536,0.0,0.0,0.0,Dipeptide transport via ABC system (met-ala)
+rxn09012,0.0,0.0,0.0,nucleoside-triphosphatase (XTP)
+rxn01945,0.0,0.0,0.0,"4-hydroxyphenylacetate,NADH:oxygen oxidoreductase (3-hydroxy"
+rxn01133,0.0,0.0,0.0,Acetyl-CoA:maltose O-acetyltransferase
+rxn05544,0.0,0.0,0.0,Dipeptide transport via ABC system (ala-leu)
+rxn02916,0.0,0.0,0.0,6-Amino-2-oxohexanoate cyclation
+rxn00775,0.0,0.0,0.0,ADPribose ribophosphohydrolase
+EX_cpd00423_e,0.0,0.0,0.0,EX_cpd00423_e
+rxn01819,0.0,0.0,0.0,"NG,NG-Dimethyl-L-arginine dimethylamidohydrolase"
+rxn09264,0.0,0.0,0.0,Spermidine acetyltransferase
+rxn05187,0.0,0.0,0.0,Vitamin ABC transport
+rxn04745,0.0,0.0,0.0,"salicylate,NADH:oxygen oxidoreductase"
+rxn02853,0.0,0.0,0.0,Imidazole acetaldehyde:NAD+ oxidoreductase
+rxn02056,0.0,0.0,0.0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase
+rxn09399,0.0,0.0,0.0,"1,4-alpha-glucan branching enzyme"
+rxn00215,0.0,0.0,0.0,"UDPglucose 4,6-hydro-lyase"
+rxn09978,0.0,0.0,0.0,beta-glucosidase (methyl-alpha-D-glucoside)
+rxn00405,0.0,0.0,0.0,L-Arginine carboxy-lyase
+rxn02949,0.0,0.0,0.0,(S)-3-Hydroxyisobutyryl-CoA hydro-lyase
+rxn05031,0.0,0.0,0.0,prephytoene diphosphate:geranylgeranyl-diphosphate
+rxn09449,0.0,0.0,0.0,fatty-acid--CoA ligase (octadecanoate)
+rxn03071,0.0,0.0,0.0,L-1-Pyrroline-3-hydroxy-5-carboxylate:NAD+ oxidoreductase
+rxn04036,0.0,0.0,0.0,(R)-2-phospho-3-sulfolactate phosphohydrolase
+rxn05727,0.0,0.0,0.0,2-Deoxy-D-Glucose 6-Phosphate transport in via proton sympor
+rxn00689,0.0,0.0,0.0,Tetrahydrofolate:L-glutamate gamma-ligase (ADP-forming)
+rxn03690,0.0,0.0,0.0,"2-Hydroxy-5-methyl-cis,cis-muconate 2-Oxo-5-methyl-cis-mucon"
+rxn07307,0.0,0.0,0.0,(2R)-O-phospho-3-sulfolactate sulfo-lyase
+rxn05555,0.0,0.0,0.0,iron (II) transport via ABC system
+rxn10067,0.0,0.0,0.0,FMN-dependent monooxygenase (hexanesulfonate)
+rxn02417,0.0,0.0,0.0,myo-Inositol-hexakisphosphate 3-phosphohydrolase
+rxn00322,0.0,0.0,0.0,L-Lysine carboxy-lyase
+rxn01446,0.0,0.0,0.0,Deoxyguanosine:orthophosphate ribosyltransferase
+rxn04068,0.0,0.0,0.0,Glycocholate amidohydrolase
+rxn09661,0.0,0.0,0.0,L-sorbitol transport via passive diffusion
+rxn00418,0.0,0.0,0.0,rxn00418
+rxn00671,0.0,0.0,0.0,2-Methyl-3-oxopropanoate:NAD+ oxidoreductase (CoA-propanoyla
+rxn01406,0.0,0.0,0.0,S-Adenosylmethioninamine:putrescine 3-aminopropyltransferase
+rxn00375,0.0,0.0,0.0,N-Formyl-L-glutamate amidohydrolase
+rxn01146,0.0,0.0,0.0,Thymidine:orthophosphate deoxyribosyltransferase
+rxn02875,0.0,0.0,0.0,N-Acetylmuramoyl-Ala amidohydrolase
+rxn00881,0.0,0.0,0.0,myo-Inositol 1-phosphate phosphahydrolase
+rxn05247,0.0,0.0,0.0,FACOAL140(ISO)
+rxn07845,0.0,0.0,0.0,D-glucarate hydro-lyase
+rxn04454,0.0,0.0,0.0,rxn04454
+rxn01834,0.0,0.0,0.0,(R)-S-Lactoylglutathione methylglyoxal-lyase (isomerizing)
+rxn05223,0.0,0.0,0.0,Biotin ABC transporter
+rxn01073,0.0,0.0,0.0,sn-Glycero-3-phosphoethanolamine glycerophosphohydrolase
+rxn05641,0.0,0.0,0.0,Puromycin efflux  via ABC system
+rxn05534,0.0,0.0,0.0,Dipeptide transport via ABC system (gly-glu)
+EX_cpd00208_e,0.0,0.0,0.0,EX_cpd00208_e
+rxn05618,0.0,0.0,0.0,manganese transport in via proton symport
+rxn05674,0.0,0.0,0.0,L-Citrulline transport in via proton symport
+rxn05958,0.0,0.0,0.0,S-(5-deoxy-D-ribos-5-yl)-L-homocysteine homocysteine-lyase
+rxn03424,0.0,0.0,0.0,L-erythro-4-Hydroxyglutamate:NAD+ oxidoreductase
+rxn03068,0.0,0.0,0.0,"(R)-2,3-Dihydroxy-3-methylbutanoate:NADP+ oxidoreductase"
+rxn05601,0.0,0.0,0.0,lipoic acid transport via ABC system
+rxn00992,0.0,0.0,0.0,(R)-3-Hydroxybutanoate:NAD+ oxidoreductase
+rxn00002,0.0,0.0,0.0,Urea-1-carboxylate amidohydrolase
+rxn09988,0.0,0.0,0.0,alpha-N-arabinofuranosidase
+rxn11399,0.0,0.0,0.0,L-Gulonolactone transport in via proton symport
+rxn04834,0.0,0.0,0.0,"1-nitronaphthalene-5,6-oxide hydrolase"
+rxn05149,0.0,0.0,0.0,Manganese-ABC transport
+rxn00206,0.0,0.0,0.0,Superoxide:superoxide oxidoreductase
+rxn02288,0.0,0.0,0.0,Uroporphyrinogen-III carboxy-lyase
+rxn05619,0.0,0.0,0.0,molybdate transport via ABC system
+rxn00060,0.0,0.0,0.0,Porphobilinogen ammonia-lyase (polymerizing)
+rxn05570,0.0,0.0,0.0,gamma-butyrobetaine transport in via ABC system
+rxn05498,0.0,0.0,0.0,antimonite  transporter via uniport
+rxn02297,0.0,0.0,0.0,6-Carboxyhexanoyl-CoA:L-alanine C-carboxyhexanoyltransferase
+rxn01639,0.0,0.0,0.0,N-Formimino-L-glutamate formiminohydrolase
+rxn05760,0.0,0.0,0.0,L-Glutamate:ferredoxin oxidoreductase (transaminating)
+rxn00350,0.0,0.0,0.0,glutathione hydralase (periplasmic)
+EX_cpd08305_e,0.0,0.0,0.0,EX_cpd08305_e
+EX_cpd11598_e,0.0,0.0,0.0,EX_cpd11598_e
+rxn04132,0.0,0.0,0.0,rxn04132
+rxn09944,0.0,0.0,0.0,methylmalonate-semialdehyde dehydrogenase (propanol)
+rxn02791,0.0,0.0,0.0,(5-Glutamyl)-peptide:amino-acid 5-glutamyltransferase
+rxn05550,0.0,0.0,0.0,ecotine transport in via ABC system
+rxn01489,0.0,0.0,0.0,Geranylgeranyl-diphosphate:geranylgeranyl-diphosphate
+rxn05733,0.0,0.0,0.0,cysteine synthase (Thiosulfate)
+rxn10339,0.0,0.0,0.0,isotetradecanoyl-cardiolipin synthase
+rxn02166,0.0,0.0,0.0,4-Nitrophenyl phosphate phosphohydrolase
+rxn05248,0.0,0.0,0.0,FACOAL150(anteiso)
+rxn02287,0.0,0.0,0.0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase
+rxn04750,0.0,0.0,0.0,(S)-3-hydroxyacyl-CoA:NAD+ oxidoreductase
+rxn01555,0.0,0.0,0.0,"quercetin:oxygen 2,3-oxidoreductase (decyclizing)"
+rxn05064,0.0,0.0,0.0,carbamate hydro-lyase
+rxn03094,0.0,0.0,0.0,Glycodeoxycholate amidohydrolase
+rxn05597,0.0,0.0,0.0,lanthionine transport via ABC system
+EX_cpd01293_e,0.0,0.0,0.0,EX_cpd01293_e
+rxn01642,0.0,0.0,0.0,4-imidazolone-5-propanoate amidohydrolase
+EX_cpd00155_e,0.0,0.0,0.0,EX_cpd00155_e
+rxn05249,0.0,0.0,0.0,FACOAL150(ISO)
+rxn03409,0.0,0.0,0.0,Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine
+rxn05192,0.0,0.0,0.0,Crotono-betaine ABC transport
+rxn05724,0.0,0.0,0.0,Cytidine- 2'- Monophosphate transport in via proton symport
+rxn05184,0.0,0.0,0.0,Choline ABC transport
+EX_cpd11593_e,0.0,0.0,0.0,EX_cpd11593_e
+rxn03407,0.0,0.0,0.0,Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine
+rxn05714,0.0,0.0,0.0,D-Mannosamine transport in via proton symport
+rxn00211,0.0,0.0,0.0,UDPglucose:NAD+ oxidoreductase
+rxn02727,0.0,0.0,0.0,(5-Glutamyl)-peptide:amino-acid 5-glutamyltransferase
+rxn03393,0.0,0.0,0.0,Octaprenyl-hydroxybenzoate decarboxylase
+rxn07099,0.0,0.0,0.0,Penicillin hydrolase
+rxn02085,0.0,0.0,0.0,"4,5-Dihydro-4-oxo-5-imidazolepropanoate hydro-lyase"
+rxn05105,0.0,0.0,0.0,"2,3-diketo-5-methylthiopentyl-1-phosphate enolase"
+rxn10001,0.0,0.0,0.0,Heme C synthase
+rxn01664,0.0,0.0,0.0,2-Aminoadipate 6-semialdehyde
+rxn06591,0.0,0.0,0.0,L-glutamate-semialdehyde: NADP+
+rxn05541,0.0,0.0,0.0,Dipeptide transport via ABC system (ala-glu)
+rxn03012,0.0,0.0,0.0,rxn03012
+rxn10048,0.0,0.0,0.0,Heme A synthase
+EX_cpd07061_e,0.0,0.0,0.0,EX_cpd07061_e
+rxn03445,0.0,0.0,0.0,O-Phospho-4-hydroxy-L-threonine:2-oxoglutarate aminotransfer
+rxn01390,0.0,0.0,0.0,ATP:L-rhamnulose 1-phosphotransferase
+rxn05546,0.0,0.0,0.0,Dipeptide transport via ABC system (gly-asn)
+rxn09949,0.0,0.0,0.0,Spermidine acetyltransferase (spermine)
+rxn00127,0.0,0.0,0.0,S-Adenosyl-L-methionine carboxy-lyase
+rxn11404,0.0,0.0,0.0,Methyl beta-D-galactoside transport in via proton symport
+rxn01274,0.0,0.0,0.0,S-(2-Hydroxyacyl)glutathione hydrolase
+rxn05251,0.0,0.0,0.0,FACOAL170(anteiso)
+rxn05580,0.0,0.0,0.0,Glycogen transport in
+EX_cpd03727_e,0.0,0.0,0.0,EX_cpd03727_e
+rxn00224,0.0,0.0,0.0,Protoporphyrin ferro-lyase
+rxn05091,0.0,0.0,0.0,"1,2-dihydroxy-5-(methylthio)pent-1-en-3-one:oxygen oxidoredu"
+rxn02304,0.0,0.0,0.0,Protoporphyrinogen-IX:oxygen oxidoreductase
+rxn00748,0.0,0.0,0.0,Glycerone-phosphate phospho-lyase
+rxn05736,0.0,0.0,0.0,fatty-acid--CoA ligase (tetradecanoate)
+rxn01094,0.0,0.0,0.0,"2,3-dihydro-2,3-dihydroxybenzoate:NAD+ oxidoreductase"
+rxn09940,0.0,0.0,0.0,L-methionine R-oxide reductase (trdrd)
+rxn06077,0.0,0.0,0.0,L-methionine:oxidized-thioredoxin S-oxidoreductase
+rxn03043,0.0,0.0,0.0,5-Dehydro-4-deoxy-D-glucuronate ketol-isomerase
+rxn05694,0.0,0.0,0.0,L-Pyroglutamic Acid transport in via proton symport
+EX_cpd04097_e,0.0,0.0,0.0,EX_cpd04097_e
+rxn09355,0.0,0.0,0.0,UDP-D-glucuronate pyrophosphohydrolase (periplasm)
+rxn05697,0.0,0.0,0.0,D-Psicose transport in via proton symport
+rxn00882,0.0,0.0,0.0,myo-Inositol 4-phosphate phosphahydrolase
+rxn01684,0.0,0.0,0.0,Purine nucleoside:orthophosphate ribosyltransferase
+rxn05721,0.0,0.0,0.0,Adenosine- 2'-Monophosphate transport in via proton symport
+rxn05193,0.0,0.0,0.0,Butyro-betaine ABC transport
+rxn07585,0.0,0.0,0.0,rxn07585
+rxn04820,0.0,0.0,0.0,"(1R,2S)-naphthalene 1,2-oxide hydrolase"
+rxn00376,0.0,0.0,0.0,N-Formyl-L-aspartate amidohydrolase
+rxn05174,0.0,0.0,0.0,Nickel-ABC transport
+rxn05537,0.0,0.0,0.0,Dipeptide transport via ABC system (gly-asp)
+rxn00947,0.0,0.0,0.0,Palmitate:CoA ligase (AMP-forming)
+rxn05599,0.0,0.0,0.0,cysteate transport via ABC system
+rxn10343,0.0,0.0,0.0,Mercury (Hg+2) ABC transporter
+rxn05188,0.0,0.0,0.0,Ferrichrome ABC transport
+EX_cpd01017_e,0.0,0.0,0.0,EX_cpd01017_e
+rxn05512,0.0,0.0,0.0,butanesulfonate transport via ABC system
+rxn00065,0.0,0.0,0.0,ATP pyrophosphate-lyase (cyclizing)
+rxn11403,0.0,0.0,0.0,Uridine 2'-phosphate transport in via proton symport
+rxn10073,0.0,0.0,0.0,proline betaine transport in via ABC system
+rxn05558,0.0,0.0,0.0,Ferroxamine transport via ABC system
+rxn05737,0.0,0.0,0.0,FMN-dependent monooxygenase (taurine)
+rxn00303,0.0,0.0,0.0,ATP:GTP 3'-pyrophosphotransferase
+rxn00122,0.0,0.0,0.0,ATP:FMN adenylyltransferase
+rxn01314,0.0,0.0,0.0,"NADPH:6,7-dihydropteridine oxidoreductase"
+rxn05585,0.0,0.0,0.0,hexanesulfonate transport via ABC system
+rxn02945,0.0,0.0,0.0,prephytoene diphosphate:geranylgeranyl-diphosphate
+rxn03406,0.0,0.0,0.0,Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine
+rxn02527,0.0,0.0,0.0,rxn02527
+rxn08669,0.0,0.0,0.0,Glycerophosphodiester phosphodiesterase (Glycerophosphoglyce
+rxn05542,0.0,0.0,0.0,Dipeptide transport via ABC system (ala-gly)
+rxn01480,0.0,0.0,0.0,3-Hydroxy-2-methylpropanoate:NAD+ oxidoreductase
+rxn04308,0.0,0.0,0.0,"di-trans,poly-cis-Decaprenyl-diphosphate:isopentenyl-diphosp"
+rxn01537,0.0,0.0,0.0,Thiamin hydrolase
+rxn01973,0.0,0.0,0.0,"N-Succinyl-LL-2,6-diaminoheptanedioate amidohydrolase"
+rxn05620,0.0,0.0,0.0,MOPS transport via ABC system
+rxn00455,0.0,0.0,0.0,N-Formyl-L-methionine amidohydrolase
+rxn05108,0.0,0.0,0.0,2-keto-4-methylthiobutyrate transamination
+rxn02666,0.0,0.0,0.0,L-2-amino-3-oxobutanoate decarboxylation (spontaneous)
+rxn00222,0.0,0.0,0.0,"1,4-beta-D-Glucan glucohydrolase"
+rxn01966,0.0,0.0,0.0,"alpha,alpha-Trehalose:orthophosphate beta-D-glucosyltransfer"
+rxn02275,0.0,0.0,0.0,4-Guanidinobutanamide amidohydrolase
+rxn00029,0.0,0.0,0.0,5-Aminolevulinate hydro-lyase(adding 5-aminolevulinate and
+rxn05088,0.0,0.0,0.0,"5,6,7,8-tetrahydropteridine:NADPH+ oxidoreductase"
+rxn02277,0.0,0.0,0.0,"7,8-Diaminononanoate:carbon-dioxide cyclo-ligase"
+rxn05735,0.0,0.0,0.0,"aldehyde dehydrogenase (aminoacetaldehyde, NAD)"
+rxn09889,0.0,0.0,0.0,"dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylpentanoate"
+rxn04457,0.0,0.0,0.0,rxn04457
+rxn01843,0.0,0.0,0.0,2-phenylacetamide amidohydrolase
+rxn09340,0.0,0.0,0.0,UDP-N-acetyl-D-galactosamine pyrophosphohydrolase (periplasm
+rxn02825,0.0,0.0,0.0,Acetyl-CoA:N-hydroxyarylamine O-acetyltransferase
+rxn05180,0.0,0.0,0.0,Carnitine-ABC transport
+rxn01225,0.0,0.0,0.0,Guanine aminohydrolase
+rxn02264,0.0,0.0,0.0,Hydroxymethylbilane hydro-lyase(cyclizing)
+rxn01750,0.0,0.0,0.0,"CDPglucose 4,6-hydro-lyase"
+rxn11405,0.0,0.0,0.0,Phenethylamine transport in via proton symport
+rxn10061,0.0,0.0,0.0,Dipicolinate synthase
+rxn00965,0.0,0.0,0.0,4-Hydroxybenzoyl-CoA hydrolase
+rxn08100,0.0,0.0,0.0,L-alanyl-gamma-glutamate epimerase
+rxn05475,0.0,0.0,0.0,3-aminobutyrate transport in via proton symport
+rxn09448,0.0,0.0,0.0,fatty-acid--CoA ligase (octadecenoate)
+rxn01851,0.0,0.0,0.0,4-aminobutanal:NAD+ 1-oxidoreductase
+rxn00867,0.0,0.0,0.0,L-Histidine ammonia-lyase
+rxn01010,0.0,0.0,0.0,UDPglucuronate 5'-epimerase
+rxn09011,0.0,0.0,0.0,nucleoside-triphosphatase (dITP)
+rxn03838,0.0,0.0,0.0,rxn03838
+rxn01021,0.0,0.0,0.0,Methylthioadenosine methylthioribohydrolase
+rxn05543,0.0,0.0,0.0,Dipeptide transport via ABC system (ala-his)
+rxn01124,0.0,0.0,0.0,2-Dehydro-3-deoxy-D-gluconate:NAD+ 5-oxidoreductase
+rxn03976,0.0,0.0,0.0,reduced-riboflavin:NADP+ oxidoreductase
+rxn11703,0.0,0.0,0.0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate syntha"
+rxn05611,0.0,0.0,0.0,D-mannose transport in via proton symport
+rxn02596,0.0,0.0,0.0,a-galactosidase (stachyose)
+rxn02792,0.0,0.0,0.0,(5-Glutamyl)-peptide:amino-acid 5-glutamyltransferase
+rxn02312,0.0,0.0,0.0,S-Adenosyl-L-methionine:8-amino-7-oxononanoate aminotransfer
+rxn04724,0.0,0.0,0.0,"salicylate,NADH:oxygen oxidoreductase"
+rxn05304,0.0,0.0,0.0,CYSTabc
+rxn03869,0.0,0.0,0.0,Acylamide aminohydrolase
+rxn10344,0.0,0.0,0.0,Lead (Pb+2) ABC transporter
+rxn05106,0.0,0.0,0.0,2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phophatase
+rxn10474,0.0,0.0,0.0,cobalt transport in/out via permease (no H+)
+rxn02305,0.0,0.0,0.0,2-Methyl-4-amino-5-hydroxymethylpyrimidine-diphosphate:4-met
+rxn00589,0.0,0.0,0.0,"salicylate,NADH:oxygen oxidoreductase (1-hydroxylating,"
+rxn02363,0.0,0.0,0.0,"3-Hydroxyphenylacetate,NADH:oxygen oxidoreductase (3-hydroxy"
+rxn05148,0.0,0.0,0.0,Heme-ABC transport
+rxn11511,0.0,0.0,0.0,rxn11511
+rxn02296,0.0,0.0,0.0,6-Carboxyhyxanoate:CoA ligase (AMP-forming)
+rxn05481,0.0,0.0,0.0,5-Methylthio-D-ribose transport in/out via proton symport
+rxn08775,0.0,0.0,0.0,L-alanyl-gamma-L-glutamate peptidase
+rxn05533,0.0,0.0,0.0,Dipeptide transport via ABC system (ala-asp)
+rxn01653,0.0,0.0,0.0,5-Formyltetrahydrofolate cyclo-ligase (ADP-forming)
+rxn00231,0.0,0.0,0.0,Acetamide amidohydrolase
+rxn05598,0.0,0.0,0.0,Lactose transport out via ABC system
+rxn02196,0.0,0.0,0.0,Cephalosporin-C acetylhdrolase
+rxn05203,0.0,0.0,0.0,Guanine ion-coupled transport
+rxn05250,0.0,0.0,0.0,FACOAL160(ISO)
+rxn05628,0.0,0.0,0.0,ornithine transport in via proton symport
+rxn02894,0.0,0.0,0.0,ATP:S5-methyl-5-thio-D-ribose 1-phosphotransferase
+rxn05526,0.0,0.0,0.0,chromate transport out via proton antiport
+rxn05700,0.0,0.0,0.0,Amygdalin transport in via proton symport
+rxn02061,0.0,0.0,0.0,S-Adenosylmethioninamine:putrescine 3-aminopropyltransferase
+rxn01093,0.0,0.0,0.0,"ATP:2,3-dihydroxybenzoate adenylyltransferase"
+rxn10002,0.0,0.0,0.0,Heme D synthase
+rxn04456,0.0,0.0,0.0,rxn04456
+rxn09450,0.0,0.0,0.0,"fatty-acid--CoA ligase (hexadecenoate), peroxisomal"
+rxn02177,0.0,0.0,0.0,Isochorismate pyruvate-hydrolase
+rxn04885,0.0,0.0,0.0,"benzo[a]pyrene-7,8-oxide hydrolase"
+rxn05515,0.0,0.0,0.0,Cobalamin uptake in via ABC transport
+rxn03599,0.0,0.0,0.0,Chloroacetic acid halidohydrolase
+rxn05545,0.0,0.0,0.0,Dipeptide transport via ABC system (ala-thr)
+rxn05183,0.0,0.0,0.0,D-Methionine-ABC transport
+rxn03075,0.0,0.0,0.0,ATP:4-methyl-5-(2-hydroxyethyl)-thiazole 2-phosphotransferas
+rxn05528,0.0,0.0,0.0,Copper export via ATPase
+rxn05538,0.0,0.0,0.0,Dipeptide transport via ABC system (gly-pro-L)
+rxn03108,0.0,0.0,0.0,ATP:4-amino-2-methyl-5-phosphomethylpyrimidine phosphotransf
+rxn00758,0.0,0.0,0.0,sn-Glycero-3-phosphocholine glycerophosphohydrolase
+rxn00328,0.0,0.0,0.0,4-Hydroxy-2-oxoglutarate glyoxylate-lyase
+rxn05657,0.0,0.0,0.0,thioglycolate transport via ABC system
+rxn02795,0.0,0.0,0.0,Glycochenodeoxycholate amidohydrolase
+rxn11921,0.0,0.0,0.0,Generic lipid content reaction
+rxn02774,0.0,0.0,0.0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase
+rxn05172,0.0,0.0,0.0,Taurine-ABC transport
+rxn05104,0.0,0.0,0.0,S-Methyl-5-thio-D-ribulose-1-phosphate hydro-lyase
+rxn03057,0.0,0.0,0.0,5-Methylthio-5-deoxy-D-ribose-1-phosphate ketol-isomerase
+rxn01210,0.0,0.0,0.0,10-Formyltetrahydrofolate:L-glutamate ligase (ADP-forming)
+rxn05185,0.0,0.0,0.0,D-Allose ABC transport
+rxn05116,0.0,0.0,0.0,rxn05116
+rxn04748,0.0,0.0,0.0,"salicylate,NADH:oxygen oxidoreductase"
+rxn01386,0.0,0.0,0.0,D-Lyxose ketol-isomerase
+rxn05548,0.0,0.0,0.0,Djenkolate transporter via ABC system
+rxn04712,0.0,0.0,0.0,rxn04712
+rxn05540,0.0,0.0,0.0,Dipeptide transport via ABC system (ala-gln)
+rxn00858,0.0,0.0,0.0,Agmatine amidinohydrolase
+rxn04704,0.0,0.0,0.0,coproporphyrinogen-III:S-adenosyl-L-methionine
+rxn01629,0.0,0.0,0.0,"(S)-4-Amino-5-oxopentanoate 4,5-aminomutase"
+rxn00827,0.0,0.0,0.0,CTP:N-acylneuraminate cytidylyltransferase
+rxn10072,0.0,0.0,0.0,gamma-butyrobetaine transport in via ABC system
+rxn08180,0.0,0.0,0.0,Biotin synthase
+rxn03839,0.0,0.0,0.0,AMID5
+rxn08470,0.0,0.0,0.0,FMNH2-dependent monooxygenase (butanesulfonate)
+rxn01548,0.0,0.0,0.0,guanosine:orthophosphate ribosyltransferase
+rxn01997,0.0,0.0,0.0,"dTDPglucose 4,6-hydro-lyase"
+rxn09996,0.0,0.0,0.0,"teichuronic acid (n=45), unlinked, GalNAc-GlcA repeated"
+rxn11408,0.0,0.0,0.0,Phenylacetaldehyde transport in via proton symport
+rxn01903,0.0,0.0,0.0,Phenethylamine:oxygen oxidoreductase (deaminating)
+EX_cpd02274_e,0.0,0.0,0.0,EX_cpd02274_e
+EX_cpd00765_e,0.0,0.0,0.0,EX_cpd00765_e
+EX_cpd00028_e,0.0,0.0,0.0,EX_cpd00028_e
+EX_cpd11599_e,0.0,0.0,0.0,EX_cpd11599_e
+EX_cpd01055_e,0.0,0.0,0.0,EX_cpd01055_e
+EX_cpd03805_e,0.0,0.0,0.0,EX_cpd03805_e
+EX_cpd00751_e,0.0,0.0,0.0,EX_cpd00751_e
+EX_cpd05240_e,0.0,0.0,0.0,EX_cpd05240_e
+EX_cpd11586_e,0.0,0.0,0.0,EX_cpd11586_e
+EX_cpd11595_e,0.0,0.0,0.0,EX_cpd11595_e
+EX_cpd11588_e,0.0,0.0,0.0,EX_cpd11588_e
+EX_cpd02241_e,0.0,0.0,0.0,EX_cpd02241_e
+EX_cpd11575_e,0.0,0.0,0.0,EX_cpd11575_e
+EX_cpd11577_e,0.0,0.0,0.0,EX_cpd11577_e
+EX_cpd01187_e,0.0,0.0,0.0,EX_cpd01187_e
+EX_cpd00064_e,0.0,0.0,0.0,EX_cpd00064_e
+EX_cpd00274_e,0.0,0.0,0.0,EX_cpd00274_e
+EX_cpd01981_e,0.0,0.0,0.0,EX_cpd01981_e
+EX_cpd00637_e,0.0,0.0,0.0,EX_cpd00637_e
+EX_cpd10515_e,0.0,0.0,0.0,EX_cpd10515_e
+EX_cpd00030_e,0.0,0.0,0.0,EX_cpd00030_e
+EX_cpd03161_e,0.0,0.0,0.0,EX_cpd03161_e
+EX_cpd04761_e,0.0,0.0,0.0,EX_cpd04761_e
+EX_cpd05190_e,0.0,0.0,0.0,EX_cpd05190_e
+EX_cpd00870_e,0.0,0.0,0.0,EX_cpd00870_e
+EX_cpd11597_e,0.0,0.0,0.0,EX_cpd11597_e
+EX_cpd00058_e,0.0,0.0,0.0,EX_cpd00058_e
+EX_cpd15471_e,0.0,0.0,0.0,EX_cpd15471_e
+EX_cpd00464_e,0.0,0.0,0.0,EX_cpd00464_e
+EX_cpd01012_e,0.0,0.0,0.0,EX_cpd01012_e
+EX_cpd11574_e,0.0,0.0,0.0,EX_cpd11574_e
+EX_cpd00531_e,0.0,0.0,0.0,EX_cpd00531_e
+EX_cpd00541_e,0.0,0.0,0.0,EX_cpd00541_e
+EX_cpd08306_e,0.0,0.0,0.0,EX_cpd08306_e
+EX_cpd11584_e,0.0,0.0,0.0,EX_cpd11584_e
+EX_cpd03884_e,0.0,0.0,0.0,EX_cpd03884_e
+EX_cpd00207_e,0.0,0.0,0.0,EX_cpd00207_e
+EX_cpd11592_e,0.0,0.0,0.0,EX_cpd11592_e
+EX_cpd00381_e,0.0,0.0,0.0,EX_cpd00381_e
+EX_cpd11581_e,0.0,0.0,0.0,EX_cpd11581_e
+EX_cpd00395_e,0.0,0.0,0.0,EX_cpd00395_e
+EX_cpd00104_e,0.0,0.0,0.0,EX_cpd00104_e
+EX_cpd00700_e,0.0,0.0,0.0,EX_cpd00700_e
+EX_cpd08376_e,0.0,0.0,0.0,EX_cpd08376_e
+EX_cpd11590_e,0.0,0.0,0.0,EX_cpd11590_e
+EX_cpd01939_e,0.0,0.0,0.0,EX_cpd01939_e
+EX_cpd00266_e,0.0,0.0,0.0,EX_cpd00266_e
+EX_cpd11585_e,0.0,0.0,0.0,EX_cpd11585_e
+rxn00816,0.0,0.0,0.0,Lactose galactohydrolase
+rxn01259,0.0,0.0,0.0,Isomaltose 6-alpha-D-glucanohydrolase
+rxn00702,0.0,0.0,0.0,CTP:D-glucose-1-phosphate cytidylyltransferase
+rxn05699,0.0,0.0,0.0,Gentiobiose transport in via proton symport
+rxn02339,0.0,0.0,0.0,4-Hydroxy-L-glutamate:2-oxoglutarate aminotransferase
+rxn04821,0.0,0.0,0.0,"(1S,2R)-naphthalene 1,2-oxide hydrolase"
+rxn02495,0.0,0.0,0.0,"beta-D-Galactosyl-1,4-beta-D-glucosylceramide"
+rxn00883,0.0,0.0,0.0,1D-myo-Inositol 3-phosphate phosphahydrolase
+rxn01923,0.0,0.0,0.0,"2-Methylpropanoyl-CoA:oxygen 2,3-oxidoreductase"
+rxn07584,0.0,0.0,0.0,ATP:lipoate adenylyltransferase
+rxn03906,0.0,0.0,0.0,rxn03906
+rxn05194,0.0,0.0,0.0,2-(beta-D-Glucosyl)-sn-glycerol ABC transport
+rxn03483,0.0,0.0,0.0,"2',3'-Cyclic GMP 3'-nucleotidohydrolase"
+rxn00321,0.0,0.0,0.0,"L-Lysine 2,3-aminomutase"
+EX_cpd11587_e,0.0,0.0,0.0,EX_cpd11587_e
+rxn00392,0.0,1.6985455699188794e-28,1.6985455699188794e-28,ATP:riboflavin 5'-phosphotransferase
+EX_cpd00971_e,0.0,1.1747039549244345e-12,1.1747039549244345e-12,EX_cpd00971_e
+rxn00915,0.0,1.5452725930167428e-12,1.5452725930167428e-12,GMP:pyrophosphate phosphoribosyltransferase
+rxn01107,-1.5157680272036826e-12,1.5157680272036826e-12,3.0315360544073653e-12,"D-Glucono-1,5-lactone lactonohydrolase"
+rxn10312,0.0069247580162411,0.0076941755736012,0.0007694175573601,"isotetradecanoyl-lipoteichoic acid synthesis (n=24), linked,"
+rxn10303,0.0077363259741391,0.0085959177490435,0.0008595917749043,"isotetradecanoyl-lipoteichoic acid synthesis (n=24), linked,"
+rxn10335,0.0115360809341062,0.0127458880468471,0.0012098071127408,myristoyl-cardiolipin synthase
+rxn10308,0.0144745166437371,0.0159830995042964,0.0015085828605593,"myristoyl-lipoteichoic acid synthesis (n=24), linked, N-acet"
+rxn10336,0.0157182989546919,0.0174309532192845,0.0017126542645925,stearoyl-cardiolipin synthase
+rxn10299,0.0161722794981905,0.0179691994424339,0.0017969199442433,"myristoyl-lipoteichoic acid synthesis (n=24), linked, glucos"
+rxn10309,0.0230130822084422,0.0252387046536475,0.0022256224452053,"stearoyl-lipoteichoic acid synthesis (n=24), linked, N-acety"
+rxn10342,0.021618491292284,0.0240205458803156,0.0024020545880315,isohexadecanoyl-cardiolipin synthase
+rxn10321,0.0220087279923461,0.0244541422137179,0.0024454142213717,"isotetradecanoyl-lipoteichoic acid synthesis (n=24), unlinke"
+rxn10330,0.0257773883945393,0.0285182590196281,0.0027408706250888,isotetradecanoyl-lysylphosphatidylglycerol synthesis
+rxn10300,0.0256747763538855,0.0285275292820951,0.0028527529282095,"stearoyl-lipoteichoic acid synthesis (n=24), linked, glucose"
+rxn10315,0.0294061232867501,0.0326279869127127,0.0032218636259625,"isohexadecanoyl-lipoteichoic acid synthesis (n=24), linked, "
+rxn10306,0.0328358530092081,0.0361893495640119,0.0033534965548037,"isohexadecanoyl-lipoteichoic acid synthesis (n=24), linked, "
+rxn10337,0.0340096725651718,0.0377885250724131,0.0037788525072412,isoheptadecanoyl-cardiolipin synthase
+rxn10326,0.053902415901006,0.0587363245513292,0.0048339086503231,myristoyl-lysylphosphatidylglycerol synthesis
+rxn10317,0.0460199455053296,0.0511332727836995,0.0051133272783699,"myristoyl-lipoteichoic acid synthesis (n=24), unlinked, D-al"
+rxn10334,0.0464630429536073,0.0516256032817859,0.0051625603281785,palmitoyl-cardiolipin synthase
+rxn10310,0.0480410917606312,0.0533789908451458,0.0053378990845145,"isoheptadecanoyl-lipoteichoic acid synthesis (n=24), linked,"
+rxn10294,0.0533520422284084,0.0591168444258705,0.005764802197462,"isotetradecanoyl-lipoteichoic acid synthesis (n=24), linked,"
+rxn10301,0.0536070176021542,0.0595633528912825,0.0059563352891282,"isoheptadecanoyl-lipoteichoic acid synthesis (n=24), linked,"
+rxn10298,0.0705535515889141,0.0774871123101732,0.006933560721259,"palmitoyl-lipoteichoic acid synthesis (n=24), linked, glucos"
+rxn10307,0.0631841413965066,0.070204601551674,0.0070204601551674,"palmitoyl-lipoteichoic acid synthesis (n=24), linked, N-acet"
+rxn10318,0.0727301706330851,0.0798381125896963,0.0071079419566111,"stearoyl-lipoteichoic acid synthesis (n=24), unlinked, D-ala"
+rxn10327,0.0760028728387851,0.0844476364875389,0.0084447636487538,stearoyl-lysylphosphatidylglycerol synthesis
+rxn10249,0.0778918672235478,0.0865465191372752,0.0086546519137274,isotetradecanoyl-UDP-glucosyltransferase (triglucosyl)
+rxn10338,0.0799130134788494,0.0887922371987216,0.0088792237198721,anteisoheptadecanoyl-cardiolipin synthase

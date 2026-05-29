@@ -1,0 +1,21 @@
+﻿reaction,rxn_name,slope,intercept,gpr,n_genes,target_type,target_product,slope_norm
+rxn05582,glycine transport in/out via proton symport,922.704935,-10586.0356,peg_DOT_562 or peg_DOT_2712,2,overexpress,L-Serine,0.0922704935
+rxn05307,SERt2,-822.465782,-106.5502,BIOLOGIN or OPEN or PROBLEM,3,knockout,L-Serine,-0.0822465782
+rxn05672,D-glutamate transport in via proton symport,-726.605501,6594.9327,BIOLOGIN or OPEN or PROBLEM,3,knockout,L-Serine,-0.0726605501
+rxn00193,L-Glutamate racemase,725.89196,-6479.0131,peg_DOT_2842,1,overexpress,L-Serine,0.07258919600000001
+rxn00692,"5,10-Methylenetetrahydrofolate:glycine hydroxymethyltra",556.215785,-2131.8085,peg_DOT_3697,1,overexpress,L-Serine,0.0556215785
+rxn00908,glycine synthase,515.881173,-365.9211,peg_DOT_2459 and peg_DOT_2460 and peg_DOT_2461 and peg_DOT_3,4,overexpress,L-Serine,0.0515881173
+rxn05207,Na+/malate symporter,419.789734,-4945.9481,peg_DOT_3161 or peg_DOT_2361,2,overexpress,L-Serine,0.0419789734
+rxn00799,(S)-Malate hydro-lyase,419.789734,5054.0519,peg_DOT_3310,1,overexpress,L-Serine,0.0419789734
+rxn00189,L-Glutamine amidohydrolase,388.221954,772.5585,peg_DOT_1485 or peg_DOT_244,2,overexpress,L-Serine,0.038822195399999995
+rxn09925,L-amino acid ligase (gly-gln),-384.778756,-1331.9296,GROWMATCH,1,knockout,L-Serine,-0.038477875599999996
+rxn05547,Dipeptide transport via ABC system (gly-gln),384.778756,1331.9296,peg_DOT_1295 and peg_DOT_1296 and peg_DOT_1297 and peg_DOT_1,4,overexpress,L-Serine,0.038477875599999996
+rxn00288,Succinate:(acceptor) oxidoreductase,-336.324344,7032.9594,peg_DOT_2846 and peg_DOT_2847 and peg_DOT_2848,3,knockout,L-Serine,-0.0336324344
+rxn00285,Succinate:CoA ligase (ADP-forming),336.324344,-7032.9594,peg_DOT_1611 and peg_DOT_1612,2,overexpress,L-Serine,0.0336324344
+rxn00441,2-Oxoglutarate:Thiamin diphosphate 2-oxidoreductase(dec,-336.324344,7032.9594,peg_DOT_1942,1,knockout,L-Serine,-0.0336324344
+rxn02376,3-Carboxy-1-hydroxypropyl-ThPP:lipoamde,-336.324344,7032.9594,peg_DOT_1942,1,knockout,L-Serine,-0.0336324344
+rxn01872,succinyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-succinyl,336.324344,-7032.9594,peg_DOT_1941,1,overexpress,L-Serine,0.0336324344
+rxn01241,Dihydrolipoamide:NAD+ oxidoreductase,-329.839252,5979.4118,peg_DOT_1463 or peg_DOT_2410,2,knockout,L-Serine,-0.0329839252
+rxn00364,ATP:CMP phosphotransferase,-283.6261,9806.4453,peg_DOT_2293,1,knockout,L-Serine,-0.02836261
+rxn00409,ATP:nucleoside-diphosphate phosphatransferase,-283.501952,9786.2765,peg_DOT_2277,1,knockout,L-Serine,-0.0283501952
+rxn01370,dGTP:uridine 5'-phosphotransferase,280.658062,675.7328,peg_DOT_2736,1,overexpress,L-Serine,0.028065806199999998
