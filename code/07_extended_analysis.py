@@ -1,19 +1,3 @@
-"""
-07_extended_analysis.py — 扩展分析（三个新方向）
-====================================================
-Task 1: FSEOF 多目标代谢物扩展 + 横向对比热图
-  • 目标：L-His, L-Glu, L-Ser, L-Val, L-Leu, Glycine
-  • 输出 07_fseof_multitarget.csv + fig9_fseof_heatmap.png
-
-Task 2: cFBA 多情景敏感性分析
-  • 变动 biomass 约束强度 (50/75/90/100%) × FC 阈值 (2/5/10)
-  • 输出 07_sensitivity.csv + fig10_sensitivity.png
-
-Task 3: 锚定代谢物通路富集气泡图
-  • 76 个锚定代谢物 → KEGG 通路分组
-  • 输出 07_pathway_enrichment.csv + fig11_pathway_bubble.png
-"""
-
 import sys, warnings
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
